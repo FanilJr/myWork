@@ -1,0 +1,81 @@
+{
+  "polojenie": [
+    {
+      "number": 2,
+      "team": "УГМК",
+      "gameWinLose": "29/24/5",
+      "sootnBall": "2239-1683",
+      "score": 53
+    },
+    {
+      "number": 1,
+      "team": "Динамо К",
+      "gameWinLose": "30/25/5",
+      "sootnBall": "2296-1911",
+      "score": 55
+    },
+    {
+      "number": 3,
+      "team": "МБА",
+      "gameWinLose": "29/24/5",
+      "sootnBall": "2170-1887",
+      "score": 53
+    },
+    {
+      "number": 4,
+      "team": "Надежда",
+      "gameWinLose": "30/20/10",
+      "sootnBall": "2110-1883",
+      "score": 50
+    },
+    {
+      "number": 5,
+      "team": "Ника",
+      "gameWinLose": "30/17/13",
+      "sootnBall": "2215-2151",
+      "score": 47
+    },
+    {
+      "number": 6,
+      "team": "Енисей",
+      "gameWinLose": "29/16/13",
+      "sootnBall" : "2045-1967",
+      "score": 45
+    },
+    {
+      "number": 7,
+      "team": "Самара",
+      "gameWinLose": "30/14/16",
+      "sootnBall": "2042-2115",
+      "score": 44
+    },
+    {
+      "number": 8,
+      "team": "Спарта&К",
+      "gameWinLose": "29/10/19",
+      "sootnBall": "1870-2048",
+      "score": 39
+    },
+    {
+      "number": 10,
+      "team": "Динамо Н",
+      "gameWinLose": "30/6/24",
+      "sootnBall": "1927-2384",
+      "score": 36
+    },
+    {
+      "number": 9,
+      "team": "Нефтяник",
+      "gameWinLose": "30/6/24",
+      "sootnBall": "1809-2212",
+      "score": 36
+    },
+    {
+      "number": 11,
+      "team": "Динамо М",
+      "gameWinLose": "29/2/27",
+      "sootnBall": "1881-2363",
+      "score": 31
+    }
+  ]
+}
