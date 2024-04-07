@@ -1,17 +1,16 @@
 {
   "nextMatchs": [
     {
-      "date": "06.04.2024",
+      "date": "11.04.2024",
       "place": "Екатеринбург, ДИВС",
-      "team": "Самара",
-      "time": "17:00",
-      "translation": "https://www.youtube.com/embed/t9sVX5_WmpE?si=uXZxWaMLn0ocy7iX"
+      "team": "МБА",
+      "time": "19:00"
     },
     {
-      "date": "07.04.2024",
-      "place": "Екатеринбург, ДС УГМК",
-      "team": "Самара",
-      "time": "16:00"
+      "date": "15.04.2024",
+      "place": "",
+      "team": "МБА",
+      "time": ":"
     }
   ]
 }
