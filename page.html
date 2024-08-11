@@ -18,16 +18,16 @@
             padding: 0;
         }
         h1 {
-            color: #FF6F00; /* Сделаем заголовок более ярким */
+            color: #FF6F00;
             margin-top: 20px;
-            font-size: 36px; /* Увеличим размер шрифта заголовка */
+            font-size: 36px;
         }
         .logo {
             margin-top: 20px;
             max-width: 150px;
             height: auto;
             border-radius: 20px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Добавим тень логотипу */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
         }
         .content {
             max-width: 600px;
@@ -36,88 +36,64 @@
             text-align: left;
             color: #333;
             font-size: 18px;
-            line-height: 1.8; /* Увеличим межстрочный интервал */
+            line-height: 1.8;
             font-weight: 400;
-            background-color: rgba(255, 255, 255, 0.9); /* Сделаем фон еще более прозрачным */
+            background-color: rgba(255, 255, 255, 0.9);
             border-radius: 20px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Добавим тень блоку текста */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
         }
         .button-container {
             margin-top: 40px;
         }
         .button {
-    border: none;
-    color: white;
-    padding: 15px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 10px;
-    cursor: pointer;
-    border-radius: 50px; /* Закругленные углы */
-    transition: all 0.3s ease; /* Плавный переход для всех эффектов */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Тень для объема */
-    position: relative;
-    overflow: hidden;
-}
-
-.button::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 300%;
-    height: 300%;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 50%;
-    transform: translate(-50%, -50%) scale(0);
-    transition: transform 0.5s ease;
-}
-
-.button:hover::before {
-    transform: translate(-50%, -50%) scale(1);
-}
-
-.button:hover {
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Более выраженная тень при наведении */
-    transform: translateY(-3px); /* Легкий подъем кнопки при наведении */
-}
-
-.telegram-button {
-    background: linear-gradient(45deg, #0088cc, #005f8c); /* Градиентный фон для объема */
-}
-
-.email-button {
-    background: linear-gradient(45deg, #d3d3d3, #a8a8a8);
-    color: #333;
-}
-
-.instagram-button {
-    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
-}
-
-/* Добавим иконки перед текстом */
-.button.telegram-button::before {
-    content: '\f2c6'; /* Иконка для Telegram */
-    font-family: "Font Awesome 5 Free"; /* Шрифт иконок Font Awesome */
-    font-weight: 900;
-    margin-right: 10px;
-}
-
-.button.email-button::before {
-    content: '\f0e0'; /* Иконка для Email */
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    margin-right: 10px;
-}
-
-.button.instagram-button::before {
-    content: '\f16d'; /* Иконка для Instagram */
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    margin-right: 10px;
-}
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+        .button::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 300%;
+            height: 300%;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            transition: transform 0.5s ease;
+        }
+        .button:hover::before {
+            transform: translate(-50%, -50%) scale(1);
+        }
+        .button:hover {
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            transform: translateY(-3px);
+        }
+        .telegram-button {
+            background: linear-gradient(45deg, #0088cc, #005f8c);
+        }
+        .email-button {
+            background: linear-gradient(45deg, #d3d3d3, #a8a8a8);
+            color: #333;
+        }
+        .instagram-button {
+            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+        }
+        /* Иконки для кнопок */
+        .button .fa {
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -131,9 +107,9 @@
 </div>
 
 <div class="button-container">
-    <a href="https://t.me/Fanil_Jr" class="button telegram-button" target="_blank">Telegram: @Fanil_Jr</a>
-    <a href="mailto:ethic91@icloud.com" class="button email-button">Email: ethic91@icloud.com</a>
-    <a href="https://www.instagram.com/Fanil_Jr" class="button instagram-button" target="_blank">Instagram: Fanil_Jr</a>
+    <a href="https://t.me/Fanil_Jr" class="button telegram-button" target="_blank"><i class="fab fa-telegram-plane"></i>Telegram: @Fanil_Jr</a>
+    <a href="mailto:ethic91@icloud.com" class="button email-button"><i class="fas fa-envelope"></i>Email: ethic91@icloud.com</a>
+    <a href="https://www.instagram.com/Fanil_Jr" class="button instagram-button" target="_blank"><i class="fab fa-instagram"></i>Instagram: Fanil_Jr</a>
 </div>
 
 </body>
