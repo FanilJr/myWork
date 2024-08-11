@@ -1055,6 +1055,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/6DRy9Zc/2024-08-12-02-30-03.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.289815,59.955493]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Петровский, Петроградский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/dWf8fSr/2024-08-12-02-38-27.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.254954,59.935499]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Гавань, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/nbydyRS/2024-08-12-02-40-52.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.270141,59.911681]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Екатерингофский, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/Qj3s2zt/2024-08-12-02-43-48.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.417815,59.937216]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Большая Охта, Красногвардейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/J5nQhxq/2024-08-12-02-45-43.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.435382,59.918634]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Правобережный, Невский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/xGT0htz/2024-08-12-02-47-47.png"]
+            }
         }
     ]
 }
