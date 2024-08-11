@@ -1,0 +1,358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.553321,56.83953]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Площадь Субботников",
+                "id": "1",
+                "images": ["https://i.ibb.co/3sMmdMB/2024-08-11-04-31-29.png","https://i.ibb.co/37XpDLZ/2024-08-11-04-43-00.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.573733,56.841073]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Верх-Исетский бульвар",
+                "id": "1",
+                "images": ["https://i.ibb.co/rkbnKQZ/2024-08-11-04-55-26.png","https://i.ibb.co/db1bxs5/2024-08-11-04-57-23.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.621193,56.826056]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк им.Павлика Морозова",
+                "id": "1",
+                "images": ["https://i.ibb.co/35XK4WY/2024-08-11-04-58-59.png","https://i.ibb.co/hBR2Q1W/2024-08-11-04-59-56.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.627551,56.835434]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Сад им.Энгельса",
+                "id": "1",
+                "images": ["https://i.ibb.co/Vp3f6kj/2024-08-11-05-01-05.png","https://i.ibb.co/jkYKZCX/2024-08-11-05-01-56.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.60922,56.803379]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Союзная",
+                "id": "1",
+                "images": ["https://i.ibb.co/D1vcz4k/2024-08-11-05-02-49.png","https://i.ibb.co/3sjKLpw/2024-08-11-05-03-45.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.594958,56.820436]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Зеленая Роща",
+                "id": "1",
+                "images": ["https://i.ibb.co/pzVRkFF/2024-08-11-05-07-17.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.584361,56.833642]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Мужики PRO",
+                "id": "1",
+                "images": ["https://i.ibb.co/j4zqgyh/2024-08-11-05-10-17.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.63834,56.80765]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле ЖК Suomen Ranta",
+                "id": "1",
+                "images": ["https://i.ibb.co/Tr64TKw/2024-08-11-05-12-14.png","https://i.ibb.co/N3bRQzH/2024-08-11-05-13-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.669528,56.779893]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле ЖК Тихий Берег-2",
+                "id": "1",
+                "images": ["https://i.ibb.co/x7GLRP2/2024-08-11-05-14-16.png","https://i.ibb.co/yXXfcTv/2024-08-11-05-15-04.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.702247,56.778898]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле ЖК Светлый",
+                "id": "1",
+                "images": ["https://i.ibb.co/F3vWnHZ/2024-08-11-05-16-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.567057,56.744706]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Лучистая",
+                "id": "1",
+                "images": ["https://i.ibb.co/fpZ57N5/2024-08-11-05-17-51.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.548627,56.864152]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Таганская слобода",
+                "id": "1",
+                "images": ["https://i.ibb.co/YyJy5Xc/2024-08-11-05-18-51.png","https://i.ibb.co/Yb3DRty/2024-08-11-05-19-40.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.505354,56.881186]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле ЖК Семицвет",
+                "id": "1",
+                "images": ["https://i.ibb.co/kSZRyRt/2024-08-11-05-38-55.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.80872,56.906587]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Березовский, ЖК Театральный",
+                "id": "1",
+                "images": ["https://i.ibb.co/30HbDGM/2024-08-11-05-40-21.png","https://i.ibb.co/w0fPQYW/2024-08-11-05-41-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.575858,57.143379]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Киевская",
+                "id": "1",
+                "images": ["https://i.ibb.co/CbQ7hQ8/2024-08-11-05-41-58.png","https://i.ibb.co/nwRWzcz/2024-08-11-05-42-44.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.59592,57.099383]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле шк.№5",
+                "id": "1",
+                "images": ["https://i.ibb.co/109WGG8/2024-08-11-05-43-50.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.575194,57.102499]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Федюнинского",
+                "id": "1",
+                "images": ["https://i.ibb.co/zbYV5Ms/2024-08-11-05-44-57.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.560832,57.123163]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "6-й мкр",
+                "id": "1",
+                "images": ["https://i.ibb.co/phmN03Z/2024-08-11-05-48-39.png","https://i.ibb.co/XzGWcqP/2024-08-11-05-49-51.png","https://i.ibb.co/TH8NYSw/2024-08-11-05-50-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.572524,57.09164]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "шк.№56",
+                "id": "1",
+                "images": ["https://i.ibb.co/KGD7KD5/2024-08-11-05-51-51.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.564884,57.090185]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Древо жизни",
+                "id": "1",
+                "images": ["https://i.ibb.co/g96HZpH/2024-08-11-05-53-03.png","https://i.ibb.co/4gpJNhk/2024-08-11-05-54-28.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.527892,57.152548]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Каширская",
+                "id": "1",
+                "images": ["https://i.ibb.co/P9M40FB/2024-08-11-05-57-43.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.489959,57.123246]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Андрея Бушуева",
+                "id": "1",
+                "images": ["https://i.ibb.co/Vjd8hQ2/2024-08-11-05-58-40.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.489794,57.169554]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Полярная",
+                "id": "1",
+                "images": ["https://i.ibb.co/0rGNYGc/2024-08-11-05-59-38.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.487138,57.169161]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле ЖК Олимпия",
+                "id": "1",
+                "images": ["https://i.ibb.co/Qnmrm4c/2024-08-11-06-00-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.524008,57.185439]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ЖК Меридиан Запад",
+                "id": "1",
+                "images": ["https://i.ibb.co/ChFyKTn/2024-08-11-06-01-43.png","https://i.ibb.co/Z1CxqpD/2024-08-11-06-09-18.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.090052,57.25431]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "с.Кулига, ул.Серпантиновая",
+                "id": "1",
+                "images": ["https://i.ibb.co/3Ct3RjP/2024-08-11-06-10-14.png","https://i.ibb.co/k4WDXn1/2024-08-11-06-11-06.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.547183,57.148302]
+            },
+            "properties": {
+                "name": "Сервис по уходу за обувью",
+                "subtitle": "Bakster",
+                "id": "3",
+                "url": "https://sun9-36.userapi.com/impg/O8MhP3BAsd8INjZh3o1_FmitlKc3ClHJc66HPA/IWRyuMjI7s0.jpg?size=2560x1846&quality=95&sign=d6aceb27ddbdc91457cb0fab2bd7f5c8&type=album",
+                "descriptionAnnotation": "Чистка, покраска и ремонт обуви в Тюмени\n\nпн-пт с 11:00 до 20:00\nсб,вс с 12:00 до 19:00\n\nул.Профсоюзная 92/5",
+                "images": ["https://sun9-21.userapi.com/s/v1/ig2/g4ZsYl4nqrQTOBQs09yo52dlA3cgc_5hDKQvJ9DvcJHQYbkwSYSkpxNS4a0iSWcKncoZamzHMEPjX57S1UFtjdez.jpg?quality=95&as=32x27,48x40,72x60,108x91,160x134,240x201,360x302,480x402,540x453,640x537,720x604,1080x906,1170x981&from=bu&u=y2FgFTjs7n9680g6TqaeevansyqevTMbmJMavK1OSZI&cs=807x677"]
+            }
+        }
+    ]
+}
