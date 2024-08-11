@@ -501,7 +501,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.245013,39.716253]
+                "coordinates": [39.716253,47.245013]
             },
             "properties": {
                 "name": "Площадка",
@@ -514,7 +514,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.242035,39.780281]
+                "coordinates": [39.780281,47.242035]
             },
             "properties": {
                 "name": "Площадка",
@@ -527,7 +527,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.239066,39.820077]
+                "coordinates": [39.820077,47.239066]
             },
             "properties": {
                 "name": "Площадка",
@@ -540,7 +540,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.19665,39.632406]
+                "coordinates": [39.632406,47.19665]
             },
             "properties": {
                 "name": "Площадка",
@@ -553,7 +553,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.319093,39.686766]
+                "coordinates": [39.686766,47.319093]
             },
             "properties": {
                 "name": "Площадка",
@@ -566,7 +566,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.195635,39.623624]
+                "coordinates": [39.623624,47.195635]
             },
             "properties": {
                 "name": "Площадка",
@@ -579,7 +579,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.318966,39.674526]
+                "coordinates": [39.674526,47.318966]
             },
             "properties": {
                 "name": "Площадка",
@@ -592,7 +592,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [47.226186,39.739451]
+                "coordinates": [39.739451,47.226186]
             },
             "properties": {
                 "name": "Площадка",
