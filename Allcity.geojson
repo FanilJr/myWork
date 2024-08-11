@@ -596,9 +596,113 @@
             },
             "properties": {
                 "name": "Площадка",
-                "subtitle": "ул.Большая Содовая",
+                "subtitle": "ул.Большая Садовая",
                 "id": "1",
                 "images": ["https://i.ibb.co/cTBxjGP/2024-08-12-00-44-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.322002,59.91262]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Батайский переулок",
+                "id": "1",
+                "images": ["https://i.ibb.co/7KK6qsx/2024-08-12-00-54-14.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.26581,60.005788]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Озеро Долгое, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/JQr6zCV/2024-08-12-00-56-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.347588,59.963847]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Сампсониевское, Выборгский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/txf8T71/2024-08-12-00-57-54.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.200741,59.936701]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Морской, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/mCgxWXv/2024-08-12-01-00-03.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.352418,59.923938]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Владимирский, Центральный район",
+                "id": "1",
+                "images": ["https://i.ibb.co/Qn5KP5P/2024-08-12-01-06-26.png","https://i.ibb.co/QFh3FrT/2024-08-12-01-07-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.290743,59.930403]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Адмиралтейский, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/60hgWjL/2024-08-12-01-08-48.png","https://i.ibb.co/xjCY3Yr/2024-08-12-01-09-29.png","https://i.ibb.co/hBsQCmf/2024-08-12-01-10-18.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.323625,59.908799]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Московская застава, Московский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/FKvvRq3/2024-08-12-01-11-37.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.311426,59.964286]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Кронверкское, Петроградский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/NjytR9z/2024-08-12-01-13-00.png"]
             }
         }
     ]
