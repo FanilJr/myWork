@@ -1146,6 +1146,97 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/hFJyNjH/2024-08-12-02-53-23.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.387791,59.998792]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Гражданка, Калининский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/gJX2Vxn/2024-08-12-04-00-52.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.424092,59.984887]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Пискарёвка, Калининский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/fD8g0Gy/2024-08-12-04-02-32.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.454987,59.919977]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Правобережный, Невский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/PNxV0V1/2024-08-12-04-04-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.210473,59.898153]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Морские ворота, Кировский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/nQFjfGx/2024-08-12-04-05-19.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.346827,60.007814]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Светлановское, Выборгский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZKxYMbv/2024-08-12-04-06-41.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.460874,59.920308]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Правобережный, Невский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/K2PJdn5/2024-08-12-04-09-45.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.329453,60.014477]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Светлановское, Выборгский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/0GFpx41/2024-08-12-04-13-50.png"]
+            }
         }
     ]
 }
