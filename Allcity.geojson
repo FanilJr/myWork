@@ -860,6 +860,45 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/3WhJFkd/2024-08-12-01-45-38.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.264284,59.936874]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Муниципальный округ №7, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/pvj59tF/2024-08-12-01-49-32.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.345577,59.905059]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Волковское, Фрунзенский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/1R65hsm/2024-08-12-01-52-44.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.197517,59.939008]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Морской, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZYL1twr/2024-08-12-01-54-10.png"]
+            }
         }
     ]
 }
