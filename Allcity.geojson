@@ -418,6 +418,84 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/rxHQK29/2024-08-11-20-27-25.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.227054,50.200417]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Гагарина",
+                "id": "1",
+                "images": ["https://i.ibb.co/1nsttr8/2024-08-11-21-01-16.png", "https://i.ibb.co/8MTZkk7/2024-08-11-21-01-31.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.196159,50.130457]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле шк.№5",
+                "id": "1",
+                "images": ["https://i.ibb.co/v46vmCD/2024-08-11-21-04-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.188924,50.080932]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Максима Горького",
+                "id": "1",
+                "images": ["https://i.ibb.co/yy02rLr/2024-08-11-21-06-30.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.199962,50.117028]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Садовая",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZhMnTpP/2024-08-11-21-08-26.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.203312,50.219352]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Дружбы",
+                "id": "1",
+                "images": ["https://i.ibb.co/Jm8jDXv/2024-08-11-21-11-16.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.198481,50.093349]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Максима Горького",
+                "id": "1",
+                "images": ["https://i.ibb.co/10LvG20/2024-08-11-21-13-33.png"]
+            }
         }
     ]
 }
