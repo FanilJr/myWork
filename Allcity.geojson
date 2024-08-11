@@ -990,6 +990,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/z7nWzxM/2024-08-12-02-16-36.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.400872,59.983314]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Финляндский, Калининский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/b1tTrYh/2024-08-12-02-22-21.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.212961,59.952491]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Остров Декабристов, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/t3r88qs/2024-08-12-02-23-48.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.204087,59.937691]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Морской, Василеостровский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/4KLsKPJ/2024-08-12-02-26-29.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.383864,59.949864]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Смольнинское, Центральный район",
+                "id": "1",
+                "images": ["https://i.ibb.co/0hZpqpj/2024-08-12-02-28-34.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.27418,59.897498]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Нарвский, Кировский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/6DRy9Zc/2024-08-12-02-30-03.png"]
+            }
         }
     ]
 }
