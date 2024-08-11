@@ -808,6 +808,58 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/py72bRp/2024-08-12-01-36-18.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.384034,59.946366]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Смольнинское, Центральный район",
+                "id": "1",
+                "images": ["https://i.ibb.co/Hd1YvQg/2024-08-12-01-40-31.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.273473,60.003494]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Озеро Долгое, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/dWgXRCJ/2024-08-12-01-42-24.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.43551,60.054965]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Западный м-н, Мурино, Всеволожский муниципальный район",
+                "id": "1",
+                "images": ["https://i.ibb.co/C7FSJLY/2024-08-12-01-43-59.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.29479,59.967065]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Чкаловское, Петроградский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/3WhJFkd/2024-08-12-01-45-38.png"]
+            }
         }
     ]
 }
