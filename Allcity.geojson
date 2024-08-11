@@ -353,6 +353,20 @@
                 "descriptionAnnotation": "Чистка, покраска и ремонт обуви в Тюмени\n\nпн-пт с 11:00 до 20:00\nсб,вс с 12:00 до 19:00\n\nул.Профсоюзная 92/5",
                 "images": ["https://sun9-21.userapi.com/s/v1/ig2/g4ZsYl4nqrQTOBQs09yo52dlA3cgc_5hDKQvJ9DvcJHQYbkwSYSkpxNS4a0iSWcKncoZamzHMEPjX57S1UFtjdez.jpg?quality=95&as=32x27,48x40,72x60,108x91,160x134,240x201,360x302,480x402,540x453,640x537,720x604,1080x906,1170x981&from=bu&u=y2FgFTjs7n9680g6TqaeevansyqevTMbmJMavK1OSZI&cs=807x677"]
             }
+        },
+        {
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [54.72943,55.97419]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Достоевского",
+                "id": "1",
+                "images": ["https://i.ibb.co/LP0ctqr/2024-08-11-18-16-49.png"]
+            }
         }
     ]
 }
