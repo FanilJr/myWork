@@ -1120,6 +1120,32 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/xGT0htz/2024-08-12-02-47-47.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.316809,59.87337]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Московская застава, Московский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/C5GRWjp/2024-08-12-02-51-17.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.457084,59.943544]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Пороховые, Красногвардейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/hFJyNjH/2024-08-12-02-53-23.png"]
+            }
         }
     ]
 }
