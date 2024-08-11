@@ -938,6 +938,58 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/8dW7hQL/2024-08-12-02-02-01.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.217836,60.038197]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Коломяги, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/Rzw29JZ/2024-08-12-02-06-18.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.244103,60.032756]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Коломяги, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/23bwzdJ/2024-08-12-02-11-22.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.392938,59.983437]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Пискарёвка, Калининский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/CP3DrRz/2024-08-12-02-14-16.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.273318,59.912436]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Екатерингофский, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/z7nWzxM/2024-08-12-02-16-36.png"]
+            }
         }
     ]
 }
