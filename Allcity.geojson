@@ -1237,6 +1237,19 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/0GFpx41/2024-08-12-04-13-50.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.832627, 37.521060]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Бригантина",
+                "id": "1",
+                "images": ["https://i.ibb.co/1nL4xXm/2024-08-12-04-47-53.png"]
+            }
         }
     ]
 }
