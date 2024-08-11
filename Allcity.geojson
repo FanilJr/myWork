@@ -358,7 +358,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [54.72943,55.97419]
+                "coordinates": [55.97419,54.72943]
             },
             "properties": {
                 "name": "Площадка",
