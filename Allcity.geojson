@@ -899,6 +899,45 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/ZYL1twr/2024-08-12-01-54-10.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.467204,59.91551]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Невский, Невский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/KyGxx4N/2024-08-12-01-57-11.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.222668,60.035001]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Коломяги, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/1nn7h12/2024-08-12-02-00-19.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.328146,59.82921]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​Звездное, Московский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/8dW7hQL/2024-08-12-02-02-01.png"]
+            }
         }
     ]
 }
