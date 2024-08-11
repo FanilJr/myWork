@@ -704,6 +704,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/NjytR9z/2024-08-12-01-13-00.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.410416,60.039773]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Прометей, Калининский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/XyN7qbv/2024-08-12-01-16-38.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.281333,59.926994]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Коломна, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/vxnfFJW/2024-08-12-01-18-48.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.411112,59.921042]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Малая Охта, Красногвардейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/F5KV6NL/2024-08-12-01-21-59.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.281761,60.019199]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​Коломяги, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/9ZxbJ82/2024-08-12-01-24-32.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.314831,59.930213]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​Сенной, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/b2qQk1Y/2024-08-12-01-26-39.png"]
+            }
         }
     ]
 }
