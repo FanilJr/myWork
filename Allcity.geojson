@@ -769,6 +769,45 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/b2qQk1Y/2024-08-12-01-26-39.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.259954,60.001279]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Озеро Долгое, Приморский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/TtCPkzQ/2024-08-12-01-32-17.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.427541,59.887314]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Ивановский, Невский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/mDvS2KH/2024-08-12-01-34-03.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.301304,59.913231]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​Измайловское, Адмиралтейский район",
+                "id": "1",
+                "images": ["https://i.ibb.co/py72bRp/2024-08-12-01-36-18.png"]
+            }
         }
     ]
 }
