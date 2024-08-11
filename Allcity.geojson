@@ -496,6 +496,110 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/10LvG20/2024-08-11-21-13-33.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.245013,39.716253]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Турмалиновская",
+                "id": "1",
+                "images": ["https://i.ibb.co/1bNcH8W/2024-08-12-00-30-39.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.242035,39.780281]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Горсоветская",
+                "id": "1",
+                "images": ["https://i.ibb.co/0J5hjQy/2024-08-12-00-31-51.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.239066,39.820077]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "шк.№81",
+                "id": "1",
+                "images": ["https://i.ibb.co/FYSN33n/2024-08-12-00-34-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.19665,39.632406]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Жлобинский переулок",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZBJXgY6/2024-08-12-00-36-29.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.319093,39.686766]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Петренко",
+                "id": "1",
+                "images": ["https://i.ibb.co/D700J9s/2024-08-12-00-38-09.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.195635,39.623624]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Пржевальского переулок",
+                "id": "1",
+                "images": ["https://i.ibb.co/vD8sck3/2024-08-12-00-40-09.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.318966,39.674526]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Сосновая",
+                "id": "1",
+                "images": ["https://i.ibb.co/mTpnk84/2024-08-12-00-41-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.226186,39.739451]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Большая Содовая",
+                "id": "1",
+                "images": ["https://i.ibb.co/cTBxjGP/2024-08-12-00-44-15.png"]
+            }
         }
     ]
 }
