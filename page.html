@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <style>
         body {
-            background-image: url('https://i.ibb.co/48skv2D/dark.png'); /* URL изображения фона */
+            background-image: url('https://i.ibb.co/48skv2D/dark.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -17,29 +17,32 @@
             padding: 0;
         }
         h1 {
-            color: orange;
+            color: #FF6F00; /* Сделаем заголовок более ярким */
             margin-top: 20px;
+            font-size: 36px; /* Увеличим размер шрифта заголовка */
         }
         .logo {
             margin-top: 20px;
             max-width: 150px;
             height: auto;
             border-radius: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Добавим тень логотипу */
         }
         .content {
             max-width: 600px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 30px;
             text-align: left;
             color: #333;
             font-size: 18px;
-            line-height: 1.6;
+            line-height: 1.8; /* Увеличим межстрочный интервал */
             font-weight: 400;
-            background-color: rgba(255, 255, 255, 0.8); /* Полупрозрачный фон для улучшения читаемости текста */
-            border-radius: 20px; /* Скругленные углы блока текста */
+            background-color: rgba(255, 255, 255, 0.9); /* Сделаем фон еще более прозрачным */
+            border-radius: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Добавим тень блоку текста */
         }
         .button-container {
-            margin-top: 30px;
+            margin-top: 40px;
         }
         .button {
             border: none;
@@ -52,7 +55,11 @@
             margin: 10px;
             cursor: pointer;
             border-radius: 20px;
-            transition: background-color 0.3s;
+            transition: background-color 0.3s, transform 0.3s; /* Добавим плавный переход для кнопок */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Тень для кнопок */
+        }
+        .button:hover {
+            transform: translateY(-2px); /* Легкий подъем кнопки при наведении */
         }
         .telegram-button {
             background-color: #0088cc;
