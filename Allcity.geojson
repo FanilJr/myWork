@@ -366,6 +366,58 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/LP0ctqr/2024-08-11-18-16-49.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.023498,54.746644]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.50 лет СССР",
+                "id": "1",
+                "images": ["https://i.ibb.co/swQSvyZ/2024-08-11-20-19-23.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.97351,54.711851]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Менделеева",
+                "id": "1",
+                "images": ["https://i.ibb.co/znhSgqJ/2024-08-11-20-21-47.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.057554,54.772115]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "возле пляжа на озере Кашкадан",
+                "id": "1",
+                "images": ["https://i.ibb.co/RTLdKTy/2024-08-11-20-24-12.png","https://i.ibb.co/xgPk1yv/2024-08-11-20-25-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.959313,55.050738]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Благовещенск, Республика Башкортостан",
+                "id": "1",
+                "images": ["https://i.ibb.co/rxHQK29/2024-08-11-20-27-25.png"]
+            }
         }
     ]
 }
