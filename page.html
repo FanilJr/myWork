@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basket Map</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
             background-image: url('https://i.ibb.co/48skv2D/dark.png');
@@ -45,41 +46,78 @@
             margin-top: 40px;
         }
         .button {
-            border: none;
-            color: white;
-            padding: 15px 30px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 10px;
-            cursor: pointer;
-            border-radius: 20px;
-            transition: background-color 0.3s, transform 0.3s; /* Добавим плавный переход для кнопок */
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Тень для кнопок */
-        }
-        .button:hover {
-            transform: translateY(-2px); /* Легкий подъем кнопки при наведении */
-        }
-        .telegram-button {
-            background-color: #0088cc;
-        }
-        .telegram-button:hover {
-            background-color: #0077b5;
-        }
-        .email-button {
-            background-color: #d3d3d3;
-            color: #333;
-        }
-        .email-button:hover {
-            background-color: #c0c0c0;
-        }
-        .instagram-button {
-            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
-        }
-        .instagram-button:hover {
-            background: linear-gradient(45deg, #e6683c, #f09433, #bc1888, #cc2366, #dc2743);
-        }
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 50px; /* Закругленные углы */
+    transition: all 0.3s ease; /* Плавный переход для всех эффектов */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Тень для объема */
+    position: relative;
+    overflow: hidden;
+}
+
+.button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.5s ease;
+}
+
+.button:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.button:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Более выраженная тень при наведении */
+    transform: translateY(-3px); /* Легкий подъем кнопки при наведении */
+}
+
+.telegram-button {
+    background: linear-gradient(45deg, #0088cc, #005f8c); /* Градиентный фон для объема */
+}
+
+.email-button {
+    background: linear-gradient(45deg, #d3d3d3, #a8a8a8);
+    color: #333;
+}
+
+.instagram-button {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+/* Добавим иконки перед текстом */
+.button.telegram-button::before {
+    content: '\f2c6'; /* Иконка для Telegram */
+    font-family: "Font Awesome 5 Free"; /* Шрифт иконок Font Awesome */
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+.button.email-button::before {
+    content: '\f0e0'; /* Иконка для Email */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+.button.instagram-button::before {
+    content: '\f16d'; /* Иконка для Instagram */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
     </style>
 </head>
 <body>
