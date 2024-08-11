@@ -1247,8 +1247,21 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "​​​​​Бригантина",
-                "id": "1",
+                "id": "2",
                 "images": ["https://i.ibb.co/1nL4xXm/2024-08-12-04-47-53.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.521060,55.832627]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Фестивальный парк",
+                "id": "1",
+                "images": ["https://i.ibb.co/0fk4g1d/2024-08-12-04-52-32.png"]
             }
         }
     ]
