@@ -44,55 +44,57 @@
         }
         .button-container {
             margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            gap: 15px; /* Расстояние между кнопками */
+            flex-wrap: wrap; /* Для лучшего отображения на мобильных устройствах */
         }
         .button {
             border: none;
             color: white;
-            padding: 15px 30px;
+            padding: 15px 50px;
             text-align: center;
             text-decoration: none;
-            display: inline-block;
             font-size: 16px;
-            margin: 10px;
             cursor: pointer;
-            border-radius: 50px;
+            border-radius: 10px; /* Легкие скругления для более строгого вида */
             transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
             position: relative;
-            overflow: hidden;
-        }
-        .button::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 300%;
-            height: 300%;
-            background-color: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-            transform: translate(-50%, -50%) scale(0);
-            transition: transform 0.5s ease;
-        }
-        .button:hover::before {
-            transform: translate(-50%, -50%) scale(1);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            background-color: #333;
         }
         .button:hover {
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
             transform: translateY(-3px);
         }
         .telegram-button {
-            background: linear-gradient(45deg, #0088cc, #005f8c);
+            background-color: #0088cc;
         }
         .email-button {
-            background: linear-gradient(45deg, #d3d3d3, #a8a8a8);
+            background-color: #d3d3d3;
             color: #333;
         }
         .instagram-button {
-            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+            background-color: #dc2743;
         }
         /* Иконки для кнопок */
         .button .fa {
-            margin-right: 10px;
+            margin-right: 8px;
+        }
+        /* Анимация фона на кнопках при наведении */
+        .button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -75%;
+            width: 200%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            transform: skewX(-25deg);
+            transition: 0.5s;
+        }
+        .button:hover::before {
+            left: 100%;
         }
     </style>
 </head>
