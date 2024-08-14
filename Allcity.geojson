@@ -1549,6 +1549,110 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/JCdYzvN/2024-08-14-06-53-28.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.609233,55.691052]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Севастопольский проспект",
+                "id": "1",
+                "images": ["https://i.ibb.co/JvCSKFH/2024-08-14-08-49-11.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.655087,55.762808]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Покровка",
+                "id": "1",
+                "images": ["https://i.ibb.co/P9VMjMB/2024-08-14-08-51-06.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.701927,55.775393]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Академия будущего",
+                "id": "1",
+                "images": ["https://i.ibb.co/y0RskNp/2024-08-14-08-57-03.png","https://i.ibb.co/n3MChQy/2024-08-14-08-57-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.66106,55.77809]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Краснопрудная",
+                "id": "1",
+                "images": ["https://i.ibb.co/sKV6LPr/2024-08-14-08-59-55.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.593701,55.777113]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Миусский сквер",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZVNYwdW/2024-08-14-09-02-29.png","https://i.ibb.co/HrdMwxH/2024-08-14-09-02-16.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.684781,55.776479]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Переведеновский переулок",
+                "id": "1",
+                "images": ["https://i.ibb.co/wQ7nL79/2024-08-14-09-06-53.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.539939,55.804488]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Академика Ильюшина",
+                "id": "1",
+                "images": ["https://i.ibb.co/Pxp3ptv/2024-08-14-09-08-43.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.539939,55.804488]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Олимпийской деревни",
+                "id": "1",
+                "images": ["https://i.ibb.co/31NGGrq/2024-08-14-09-10-15.png"]
+            }
         }
     ]
 }
