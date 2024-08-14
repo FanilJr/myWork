@@ -1367,6 +1367,123 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/Jtf0bk4/2024-08-14-05-12-35.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.643327,55.83986]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Леноновский пруд",
+                "id": "1",
+                "images": ["https://i.ibb.co/dBTn0jC/2024-08-14-05-24-07.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.688927,55.773048]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Гранель",
+                "id": "1",
+                "images": ["https://i.ibb.co/tmTtZpc/2024-08-14-05-25-35.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.575088,55.794362]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​2-я Квесисская",
+                "id": "1",
+                "images": ["https://i.ibb.co/9Zwjtq0/2024-08-14-05-35-19.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.58536,55.805643]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Frank by Basta",
+                "id": "1",
+                "images": ["https://i.ibb.co/dQsvNmc/2024-08-14-05-37-41.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.658378,55.763771]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Казакова",
+                "id": "1",
+                "images": ["https://i.ibb.co/x6jCVRL/2024-08-14-05-39-37.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.701642,55.775537]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Академия будущего",
+                "id": "1",
+                "images": ["https://i.ibb.co/FDCXTRb/2024-08-14-05-41-04.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.624042,55.823108]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Академика Королёва",
+                "id": "1",
+                "images": ["https://i.ibb.co/f27t5HW/2024-08-14-05-42-59.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.735178,55.712158]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​1-й Саратовский проезд",
+                "id": "1",
+                "images": ["https://i.ibb.co/rtDrt1n/2024-08-14-05-45-21.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.652403,55.83602]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк спорта Яуза",
+                "id": "1",
+                "images": ["https://i.ibb.co/BPMrcDk/2024-08-14-05-47-27.png","https://i.ibb.co/LvpYnY6/2024-08-14-05-47-17.png"]
+            }
         }
     ]
 }
