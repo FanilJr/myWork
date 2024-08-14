@@ -1926,6 +1926,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/Gkx2VS2/2024-08-15-00-56-52.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.558727,55.76447]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Звенигородское шоссе",
+                "id": "1",
+                "images": ["https://i.ibb.co/jLVj0R4/2024-08-15-01-03-09.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.364482,55.838795]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Митино",
+                "id": "1",
+                "images": ["https://i.ibb.co/QKZQ5yh/2024-08-15-01-04-47.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.416666,55.74341]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Ярцевская",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZcwvVqq/2024-08-15-01-06-46.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.427527,55.865613]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Северное Тушино",
+                "id": "1",
+                "images": ["https://i.ibb.co/ssdQKWs/2024-08-15-01-11-21.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.730916,55.630341]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Борисовские Пруды",
+                "id": "1",
+                "images": ["https://i.ibb.co/YZHYLqT/2024-08-15-01-13-34.png"]
+            }
         }
     ]
 }
