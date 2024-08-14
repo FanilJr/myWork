@@ -1437,19 +1437,6 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [37.701642,55.775537]
-            },
-            "properties": {
-                "name": "Площадка",
-                "subtitle": "​​​​​Академия будущего",
-                "id": "1",
-                "images": ["https://i.ibb.co/FDCXTRb/2024-08-14-05-41-04.png"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
                 "coordinates": [37.624042,55.823108]
             },
             "properties": {
