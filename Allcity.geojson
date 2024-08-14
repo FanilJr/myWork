@@ -1653,6 +1653,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/31NGGrq/2024-08-14-09-10-15.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.537856,55.698972]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​МГУ",
+                "id": "1",
+                "images": ["https://i.ibb.co/1Qqxc0P/2024-08-14-09-13-28.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.751215,55.775228]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Круглый пруд",
+                "id": "1",
+                "images": ["https://i.ibb.co/vPwqytV/2024-08-14-09-17-03.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.49304,55.785828]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Дендропарк",
+                "id": "1",
+                "images": ["https://i.ibb.co/Ytxbq8W/2024-08-14-09-19-56.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.658069,55.829227]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Яуза",
+                "id": "1",
+                "images": ["https://i.ibb.co/5B4P9PR/2024-08-14-09-21-09.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.615234,55.834558]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ВДНХ",
+                "id": "1",
+                "images": ["https://i.ibb.co/9gHSN3w/2024-08-14-09-23-09.png"]
+            }
         }
     ]
 }
