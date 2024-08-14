@@ -1263,6 +1263,110 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/0fk4g1d/2024-08-12-04-52-32.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.635997,55.755214]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Горка",
+                "id": "1",
+                "images": ["https://i.ibb.co/x2SQt2L/2024-08-14-04-54-15.png","https://i.ibb.co/W535FKt/2024-08-14-04-54-28.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.643512,55.765214]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Сквер на Огородной Слободе",
+                "id": "1",
+                "images": ["https://i.ibb.co/4tqJ2kg/2024-08-14-04-58-21.png","https://i.ibb.co/VV7tJRP/2024-08-14-04-59-11.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.642073,55.696574]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Тюфелева роща",
+                "id": "1",
+                "images": ["https://i.ibb.co/qDPM26n/2024-08-14-05-00-14.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.563343,55.713786]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Спортивная площадка Под Мостом",
+                "id": "1",
+                "images": ["https://i.ibb.co/wSpZhhN/2024-08-14-05-02-46.png","https://i.ibb.co/GH9xZBr/2024-08-14-05-02-58.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.6007,55.780926]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​станция Метро - Менделеевская",
+                "id": "1",
+                "images": ["https://i.ibb.co/XDVcfqm/2024-08-14-05-04-59.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.576164,55.728548]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Усадьба Трубецких в Хамовниках",
+                "id": "1",
+                "images": ["https://i.ibb.co/xXWtWGP/2024-08-14-05-07-20.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.518144,55.74889]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Западный порт",
+                "id": "1",
+                "images": ["https://i.ibb.co/z6CGXw3/2024-08-14-05-08-53.png","https://i.ibb.co/nRBS6Zx/2024-08-14-05-08-31.png","https://i.ibb.co/HXKJ5h9/2024-08-14-05-08-23.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.512148,55.760688]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Сердце Столицы",
+                "id": "1",
+                "images": ["https://i.ibb.co/Jtf0bk4/2024-08-14-05-12-35.png"]
+            }
         }
     ]
 }
