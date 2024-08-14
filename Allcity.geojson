@@ -1874,6 +1874,58 @@
                 "id": "2",
                 "images": ["https://i.ibb.co/HDQmCST/2024-08-15-00-37-54.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.625713,55.868779]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Отрадное",
+                "id": "1",
+                "images": ["https://i.ibb.co/gdmJMjG/2024-08-15-00-45-02.png","https://i.ibb.co/yW5fHSw/2024-08-15-00-45-28.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.822105,55.704426]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Ферганская",
+                "id": "1",
+                "images": ["https://i.ibb.co/r4WPhj4/2024-08-15-00-47-47.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.724655,55.925824]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Мытищи",
+                "id": "1",
+                "images": ["https://i.ibb.co/Cz11FsB/2024-08-15-00-54-23.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.659309,55.890005]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Грекова",
+                "id": "1",
+                "images": ["https://i.ibb.co/Gkx2VS2/2024-08-15-00-56-52.png"]
+            }
         }
     ]
 }
