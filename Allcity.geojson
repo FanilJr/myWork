@@ -1822,6 +1822,58 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/TkS5Tkf/2024-08-14-17-13-24.png","https://i.ibb.co/30yrfj9/2024-08-14-17-13-12.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.827471,55.729859]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Радуга",
+                "id": "1",
+                "images": ["https://i.ibb.co/M6V731X/2024-08-15-00-20-44.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.52335,55.832232]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Бригантина",
+                "id": "1",
+                "images": ["https://i.ibb.co/JqsFQS3/2024-08-15-00-23-24.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.820856,55.766474]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Купальный пруд",
+                "id": "1",
+                "images": ["https://i.ibb.co/CK5TGWW/2024-08-15-00-26-52.png","https://i.ibb.co/Qnwfkg4/2024-08-15-00-26-40.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.812252,55.822197]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Гольяновский",
+                "id": "2",
+                "images": ["https://i.ibb.co/HDQmCST/2024-08-15-00-37-54.png"]
+            }
         }
     ]
 }
