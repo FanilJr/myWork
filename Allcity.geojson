@@ -1783,6 +1783,45 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/6DK5kBw/2024-08-14-17-00-11.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.479383,55.69072]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Событие",
+                "id": "1",
+                "images": ["https://i.ibb.co/GRbZWFG/2024-08-14-17-04-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.85273,55.743654]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Суздальская",
+                "id": "1",
+                "images": ["https://i.ibb.co/Z8vtww9/2024-08-14-17-05-53.png","https://i.ibb.co/Xs4SZJ8/2024-08-14-17-06-07.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.341068,55.72795]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​с. Ромашково",
+                "id": "1",
+                "images": ["https://i.ibb.co/TkS5Tkf/2024-08-14-17-13-24.png","https://i.ibb.co/30yrfj9/2024-08-14-17-13-12.png"]
+            }
         }
     ]
 }
