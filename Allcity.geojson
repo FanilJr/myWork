@@ -1484,6 +1484,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/BPMrcDk/2024-08-14-05-47-27.png","https://i.ibb.co/LvpYnY6/2024-08-14-05-47-17.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.647854,55.865031]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Певческое поле",
+                "id": "1",
+                "images": ["https://i.ibb.co/x8Q1W9M/2024-08-14-06-40-48.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.779419,55.731705]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Аллея Первой Маёвки",
+                "id": "1",
+                "images": ["https://i.ibb.co/17LSMC8/2024-08-14-06-44-06.png","https://i.ibb.co/YZgwtj5/2024-08-14-06-44-17.png","https://i.ibb.co/BT41n6J/2024-08-14-06-44-26.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.570847,55.664905]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк 70-летия Победы",
+                "id": "1",
+                "images": ["https://i.ibb.co/r49T4ZN/2024-08-14-06-48-22.png","https://i.ibb.co/tBy81WW/2024-08-14-06-48-41.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.447108,55.783482]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Набережная Новикова-Прибоя",
+                "id": "1",
+                "images": ["https://i.ibb.co/Pcd5pVq/2024-08-14-06-51-07.png","https://i.ibb.co/6bK9GHj/2024-08-14-06-51-18.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.600968,55.86069]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Сквер Отрадное",
+                "id": "1",
+                "images": ["https://i.ibb.co/JCdYzvN/2024-08-14-06-53-28.png"]
+            }
         }
     ]
 }
