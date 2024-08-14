@@ -1705,6 +1705,84 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/9gHSN3w/2024-08-14-09-23-09.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.594777,55.870756]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Бестужевых",
+                "id": "1",
+                "images": ["https://i.ibb.co/3TsCrBQ/2024-08-14-16-44-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.773176,55.763396]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Авангард",
+                "id": "1",
+                "images": ["https://i.ibb.co/rsxbVpB/2024-08-14-16-47-24.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.776655,55.746931]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Перовская",
+                "id": "1",
+                "images": ["https://i.ibb.co/8Mz0p3N/2024-08-14-16-50-48.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.777648,55.745927]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Перовская",
+                "id": "1",
+                "images": ["https://i.ibb.co/fGnSnvD/2024-08-14-16-53-35.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.500197,55.818783]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк им.Воровского",
+                "id": "1",
+                "images": ["https://i.ibb.co/qxLX19G/2024-08-14-16-56-35.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.495647,55.683199]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк им.50-летия Октября",
+                "id": "1",
+                "images": ["https://i.ibb.co/6DK5kBw/2024-08-14-17-00-11.png"]
+            }
         }
     ]
 }
