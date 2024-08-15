@@ -23,6 +23,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "Верх-Исетский бульвар",
+                "city": "Екатеринбург",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/rkbnKQZ/2024-08-11-04-55-26.png","https://i.ibb.co/db1bxs5/2024-08-11-04-57-23.png"]
             }
@@ -36,6 +38,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "Парк им.Павлика Морозова",
+                "city": "Екатеринбург",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/35XK4WY/2024-08-11-04-58-59.png","https://i.ibb.co/hBR2Q1W/2024-08-11-04-59-56.png"]
             }
@@ -128,6 +132,8 @@
                 "name": "Площадка",
                 "subtitle": "возле ЖК Светлый",
                 "id": "1",
+                "city": "Екатеринбург",
+                "top": true,
                 "images": ["https://i.ibb.co/F3vWnHZ/2024-08-11-05-16-15.png"]
             }
         },
@@ -140,6 +146,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "ул.Лучистая",
+                "city": "Екатеринбург",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/fpZ57N5/2024-08-11-05-17-51.png"]
             }
@@ -259,6 +267,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "Парк Древо жизни",
+                "city": "Тюмень",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/g96HZpH/2024-08-11-05-53-03.png","https://i.ibb.co/4gpJNhk/2024-08-11-05-54-28.png"]
             }
@@ -404,6 +414,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "возле пляжа на озере Кашкадан",
+                "city": "Уфа",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/RTLdKTy/2024-08-11-20-24-12.png","https://i.ibb.co/xgPk1yv/2024-08-11-20-25-05.png"]
             }
@@ -678,6 +690,8 @@
                 "name": "Площадка",
                 "subtitle": "Адмиралтейский, Адмиралтейский район",
                 "id": "1",
+                "city": "Санкт-Петербург",
+                "top": true,
                 "images": ["https://i.ibb.co/60hgWjL/2024-08-12-01-08-48.png","https://i.ibb.co/xjCY3Yr/2024-08-12-01-09-29.png","https://i.ibb.co/hBsQCmf/2024-08-12-01-10-18.png"]
             }
         },
@@ -1107,6 +1121,8 @@
                 "name": "Площадка",
                 "subtitle": "​​​​Большая Охта, Красногвардейский район",
                 "id": "1",
+                "city": "Санкт-Петербург",
+                "top": true,
                 "images": ["https://i.ibb.co/J5nQhxq/2024-08-12-02-45-43.png"]
             }
         },
@@ -1185,6 +1201,8 @@
                 "name": "Площадка",
                 "subtitle": "​​​​​Правобережный, Невский район",
                 "id": "1",
+                "city": "Санкт-Петербург",
+                "top": true,
                 "images": ["https://i.ibb.co/PNxV0V1/2024-08-12-04-04-10.png"]
             }
         },
