@@ -1314,6 +1314,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "​​​​​Под Мостом",
+                "city": "Москва",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/wSpZhhN/2024-08-14-05-02-46.png","https://i.ibb.co/GH9xZBr/2024-08-14-05-02-58.png"]
             }
@@ -1353,6 +1355,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "​​​​​ЖК Западный порт",
+                "city": "Москва",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/z6CGXw3/2024-08-14-05-08-53.png","https://i.ibb.co/nRBS6Zx/2024-08-14-05-08-31.png","https://i.ibb.co/HXKJ5h9/2024-08-14-05-08-23.png"]
             }
@@ -1418,6 +1422,8 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "​​​​​Frank by Basta",
+                "city": "Москва",
+                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/dQsvNmc/2024-08-14-05-37-41.png"]
             }
@@ -1820,7 +1826,7 @@
             },
             "properties": {
                 "name": "Площадка",
-                "subtitle": "​​​​​с. Ромашково",
+                "subtitle": "​​​​​с.Ромашково",
                 "id": "1",
                 "images": ["https://i.ibb.co/TkS5Tkf/2024-08-14-17-13-24.png","https://i.ibb.co/30yrfj9/2024-08-14-17-13-12.png"]
             }
