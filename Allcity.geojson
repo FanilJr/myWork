@@ -23,8 +23,6 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "Верх-Исетский бульвар",
-                "city": "Екатеринбург",
-                "top": true,
                 "id": "1",
                 "images": ["https://i.ibb.co/rkbnKQZ/2024-08-11-04-55-26.png","https://i.ibb.co/db1bxs5/2024-08-11-04-57-23.png"]
             }
@@ -132,8 +130,6 @@
                 "name": "Площадка",
                 "subtitle": "возле ЖК Светлый",
                 "id": "1",
-                "city": "Екатеринбург",
-                "top": true,
                 "images": ["https://i.ibb.co/F3vWnHZ/2024-08-11-05-16-15.png"]
             }
         },
