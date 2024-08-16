@@ -1,16 +1,14 @@
-{
-  [
-    {
-      "title": "«123»",
-      "text": "sdas",
-      "address": "address",
-      "phone": "+7(982)147-25-50"
-    },
-    {
-      "title": "«123»",
-      "text": "sdas",
-      "address": "dsadadad",
-      "phone": "+7(982)sdasdsada-25-50"
-    }
-  ]
-}
+ [
+   {
+    "title": "«123»",
+    "text": "sdas",
+    "address": "address",
+    "phone": "+7(982)147-25-50"
+  },
+  {
+    "title": "«123»",
+     "text": "sdas",
+    "address": "dsadadad",
+    "phone": "+7(982)sdasdsada-25-50"
+   }
+]
