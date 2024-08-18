@@ -2182,6 +2182,71 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/rHjyyfm/2024-08-18-23-59-50.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.889944,55.015587]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Ясный берег",
+                "id": "1",
+                "images": ["https://i.ibb.co/zHwgm2x/2024-08-19-00-07-23.png","https://i.ibb.co/1JQX7f4/2024-08-19-00-07-34.png","https://i.ibb.co/3zR39Nx/2024-08-19-00-07-11.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.926949,54.995295]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Арена",
+                "id": "1",
+                "images": ["https://i.ibb.co/Jnd4J8L/2024-08-19-00-14-35.png","https://i.ibb.co/b3k5bmt/2024-08-19-00-14-49.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.897057,55.041804]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Челюскинский ж/м",
+                "id": "1",
+                "images": ["https://i.ibb.co/xqKst5T/2024-08-19-00-28-02.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.988635,55.036124]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Акация на Лежена",
+                "id": "1",
+                "images": ["https://i.ibb.co/M1StyCr/2024-08-19-00-34-47.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.921792,54.96369]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Мира",
+                "id": "1",
+                "images": ["https://i.ibb.co/PDnSKSj/2024-08-19-00-37-42.png"]
+            }
         }
     ]
 }
