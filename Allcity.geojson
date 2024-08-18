@@ -2169,6 +2169,19 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/3FBrX6d/2024-08-15-02-19-14.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.026539,82.932183]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Чаплыгина",
+                "id": "1",
+                "images": ["https://i.ibb.co/rHjyyfm/2024-08-18-23-59-50.png"]
+            }
         }
     ]
 }
