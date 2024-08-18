@@ -2247,6 +2247,214 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/PDnSKSj/2024-08-19-00-37-42.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.893179,54.932203]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Сибиряков-Гвардейцев",
+                "id": "1",
+                "images": ["https://i.ibb.co/s6921D7/2024-08-19-00-52-20.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.882371,54.94075]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Виктора Уса",
+                "id": "1",
+                "images": ["https://i.ibb.co/m6q5qj2/2024-08-19-00-55-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.95338,55.038518]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Фрунзе",
+                "id": "1",
+                "images": ["https://i.ibb.co/ynKSYBp/2024-08-19-00-56-45.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.926885,55.066233]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​СГУПС",
+                "id": "1",
+                "images": ["https://i.ibb.co/87rYMy6/2024-08-19-00-58-57.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.887325,55.037201]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Владимировская",
+                "id": "1",
+                "images": ["https://i.ibb.co/QXPBjNv/2024-08-19-01-00-36.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.843202,54.985287]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Крымский",
+                "id": "1",
+                "images": ["https://i.ibb.co/qdfQtLQ/2024-08-19-01-04-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.937594,55.099497]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Фадеева",
+                "id": "1",
+                "images": ["https://i.ibb.co/5MZctKL/2024-08-19-01-06-16.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.889245,54.994402]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​мкр.Горский",
+                "id": "1",
+                "images": ["https://i.ibb.co/z6bQXy3/2024-08-19-01-07-34.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.939992,55.099657]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Фадеева",
+                "id": "1",
+                "images": ["https://i.ibb.co/GHQrhJz/2024-08-19-01-09-44.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.968116,54.993138]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Болшевистская",
+                "id": "1",
+                "images": ["https://i.ibb.co/LxbQZgx/2024-08-19-01-11-23.png","https://i.ibb.co/BTv50Zs/2024-08-19-01-11-40.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.977802,55.021088]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Красносельская",
+                "id": "1",
+                "images": ["https://i.ibb.co/n0mWcNW/2024-08-19-01-15-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.863023,55.021683]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Междуреченская",
+                "id": "1",
+                "images": ["https://i.ibb.co/fqbGsjQ/2024-08-19-01-17-30.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.043251,54.978704]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Заречная",
+                "id": "1",
+                "images": ["https://i.ibb.co/5c7Ngg7/2024-08-19-01-19-09.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.058945,54.980721]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Заречная",
+                "id": "1",
+                "images": ["https://i.ibb.co/F7Rd46S/2024-08-19-01-22-18.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.921685,55.064095]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Дуси Ковальчук",
+                "id": "1",
+                "images": ["https://i.ibb.co/ZNTRgcJ/2024-08-19-01-25-07.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.935171,55.049968]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Писарева",
+                "id": "1",
+                "images": ["https://i.ibb.co/7WcCGF9/2024-08-19-01-27-22.png"]
+            }
         }
     ]
 }
