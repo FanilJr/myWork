@@ -2455,6 +2455,97 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/7WcCGF9/2024-08-19-01-27-22.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.896379,54.990422]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Выставочная",
+                "id": "1",
+                "images": ["https://i.ibb.co/b6f5wcs/2024-08-19-01-30-14.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.940413,55.003387]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Михайловская набережная",
+                "id": "1",
+                "images": ["https://i.ibb.co/D19g4M3/2024-08-19-01-31-46.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.786239,54.981801]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Спортивная",
+                "id": "1",
+                "images": ["https://i.ibb.co/nnpXKsJ/2024-08-19-01-33-50.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.897072,55.12092]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​СОШ№51",
+                "id": "1",
+                "images": ["https://i.ibb.co/qYM8Vq4/2024-08-19-01-38-00.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.834235,55.12319]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Чкаловские дачи",
+                "id": "1",
+                "images": ["https://i.ibb.co/HBTHKbZ/2024-08-19-01-39-14.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.105126,54.867527]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Вяземская",
+                "id": "1",
+                "images": ["https://i.ibb.co/xzVbzw5/2024-08-19-01-40-52.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [82.901992,54.989612]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Геодезическая",
+                "id": "1",
+                "images": ["https://i.ibb.co/XX7ykxD/2024-08-19-01-42-26.png"]
+            }
         }
     ]
 }
