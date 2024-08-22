@@ -2559,6 +2559,201 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/Sxk17gS/2024-08-22-10-58-27.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.991548,45.031257]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Садовый сквер",
+                "id": "1",
+                "images": ["https://i.ibb.co/gM7y44f/2024-08-22-11-02-02.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.025981,45.075601]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Геодезическая",
+                "id": "1",
+                "images": ["https://i.ibb.co/C6MHBD6/2024-08-22-11-05-04.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.980732,45.072449]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​проезд Репина",
+                "id": "1",
+                "images": ["https://i.ibb.co/CWqd2yN/2024-08-22-11-06-39.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.019425,45.051669]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Российская",
+                "id": "1",
+                "images": ["https://i.ibb.co/QM4936P/2024-08-22-11-08-58.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.019118,45.05341]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Российская",
+                "id": "1",
+                "images": ["https://i.ibb.co/gFRQVMW/2024-08-22-11-10-00.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.971515,45.078208]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Дзержинского",
+                "id": "1",
+                "images": ["https://i.ibb.co/4V2hqCL/2024-08-22-11-11-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.975807,45.075476]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Циолковского",
+                "id": "1",
+                "images": ["https://i.ibb.co/z7zBkzs/2024-08-22-11-14-30.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.943965,45.023052]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ш.Тургеневское",
+                "id": "1",
+                "images": ["https://i.ibb.co/QpT1jHq/2024-08-22-11-16-33.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.031032,45.048554]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Панорама",
+                "id": "1",
+                "images": ["https://i.ibb.co/rp4tS5Y/2024-08-22-11-18-17.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.966758,45.022495]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Детский сквер Дружба",
+                "id": "1",
+                "images": ["https://i.ibb.co/ykLjjz2/2024-08-22-11-19-41.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.912555,45.040525]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​бул.им.Клары Лучко",
+                "id": "1",
+                "images": ["https://i.ibb.co/K5YPBgW/2024-08-22-11-21-06.png","https://i.ibb.co/bm7BZdr/2024-08-22-11-21-15.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.909376,45.025285]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Рождественская набережная",
+                "id": "1",
+                "images": ["https://i.ibb.co/VBkFf4Y/2024-08-22-11-23-06.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.039403,45.065416]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Черкасская",
+                "id": "1",
+                "images": ["https://i.ibb.co/RzMs6Rn/2024-08-22-11-25-49.png","https://i.ibb.co/FVrHtdp/2024-08-22-11-25-37.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.903577,45.025501]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.70-Летия Октября",
+                "id": "1",
+                "images": ["https://i.ibb.co/Gchx3zh/2024-08-22-11-28-46.png","https://i.ibb.co/4SbxmpF/2024-08-22-11-29-55.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.91205,45.041347]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​бул.им.Клары Лучко",
+                "id": "1",
+                "images": ["https://i.ibb.co/nj6Sfmb/2024-08-22-11-31-02.png"]
+            }
         }
     ]
 }
