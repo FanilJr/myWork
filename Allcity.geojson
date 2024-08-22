@@ -2546,6 +2546,19 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/XX7ykxD/2024-08-19-01-42-26.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.015242,45.119433]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​бул.Строителей",
+                "id": "1",
+                "images": ["https://i.ibb.co/Sxk17gS/2024-08-22-10-58-27.png"]
+            }
         }
     ]
 }
