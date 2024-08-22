@@ -2754,6 +2754,97 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/nj6Sfmb/2024-08-22-11-31-02.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.070912,44.991298]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Валерия Гассия",
+                "id": "1",
+                "images": ["https://i.ibb.co/SmKnxJf/2024-08-22-11-42-59.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.992637,45.042556]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК На Садовой",
+                "id": "1",
+                "images": ["https://i.ibb.co/Bz1hpT3/2024-08-22-11-48-05.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.969816,45.03932]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Октябрьская",
+                "id": "1",
+                "images": ["https://i.ibb.co/j55VMtj/2024-08-22-11-51-24.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.03256,45.089809]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Инсити Парк",
+                "id": "1",
+                "images": ["https://i.ibb.co/5T7vZrk/2024-08-22-11-53-32.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.090094,45.032553]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Симферопольская",
+                "id": "1",
+                "images": ["https://i.ibb.co/y8qvqN3/2024-08-22-12-15-42.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.987889,45.11473]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Арена-Парк",
+                "id": "1",
+                "images": ["https://i.ibb.co/7tyt083/2024-08-22-12-17-10.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.122904,45.037655]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Восток",
+                "id": "1",
+                "images": ["https://i.ibb.co/nRR3CJr/2024-08-22-12-20-32.png"]
+            }
         }
     ]
 }
