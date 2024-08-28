@@ -1797,6 +1797,21 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [37.595916,55.76505]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​PlayСтрой",
+                "id": "1",
+                "top": true,
+                "city": "Москва",
+                "images": ["[https://i.ibb.co/Yhw62v3/2024-08-28-08-18-13.png","https://i.ibb.co/Kh7ZMF2/2024-08-28-08-18-25.png","https://i.ibb.co/1nyB0ZV/2024-08-28-08-18-40.png","https://i.ibb.co/XbTvQ2S/2024-08-28-08-18-54.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [37.777648,55.745927]
             },
             "properties": {
