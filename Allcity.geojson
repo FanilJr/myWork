@@ -5,6 +5,66 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [65.547183,57.148302]
+            },
+            "properties": {
+                "name": "Сервис по уходу за обувью",
+                "subtitle": "Bakster",
+                "id": "3",
+                "url": "https://sun9-36.userapi.com/impg/O8MhP3BAsd8INjZh3o1_FmitlKc3ClHJc66HPA/IWRyuMjI7s0.jpg?size=2560x1846&quality=95&sign=d6aceb27ddbdc91457cb0fab2bd7f5c8&type=album",
+                "descriptionAnnotation": "Чистка, покраска и ремонт обуви в Тюмени\n\nпн-пт с 11:00 до 20:00\nсб,вс с 12:00 до 19:00\n\nул.Профсоюзная 92/5",
+                "images": ["https://sun9-21.userapi.com/s/v1/ig2/g4ZsYl4nqrQTOBQs09yo52dlA3cgc_5hDKQvJ9DvcJHQYbkwSYSkpxNS4a0iSWcKncoZamzHMEPjX57S1UFtjdez.jpg?quality=95&as=32x27,48x40,72x60,108x91,160x134,240x201,360x302,480x402,540x453,640x537,720x604,1080x906,1170x981&from=bu&u=y2FgFTjs7n9680g6TqaeevansyqevTMbmJMavK1OSZI&cs=807x677"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.594554,55.800463]
+            },
+            "properties": {
+                "name": "Аренда площадок",
+                "subtitle": "Playground",
+                "id": "4",
+                "url": "https://optim.tildacdn.com/tild6233-6362-4463-b733-633839646164/-/resize/100x/-/format/webp/sv.png",
+                "descriptionAnnotation": "На территории клуба Савёловская разместились 2 полноразмерные площадки с паркетом из канадского клёна, как на лучших аренах NBA.\nДвадцать шесть тренировочных колец.\nЭлектронные табло со статистикой и счетчиками 24 секунд.\nВы можете арендовать половину или целую площадку для проведения собственных тренировок, матчей и соревнований, тренировочных сборов или праздников.",
+                "images": ["https://optim.tildacdn.com/tild6666-6638-4261-a431-383630346232/-/format/webp/-20.jpg","https://optim.tildacdn.com/tild6131-6564-4233-a534-623331306635/-/format/webp/-12.jpg","https://optim.tildacdn.com/tild3064-3039-4061-b366-373338396261/-/format/webp/-6.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.355651,55.787938]
+            },
+            "properties": {
+                "name": "Аренда площадок",
+                "subtitle": "Playground",
+                "id": "4",
+                "url": "https://optim.tildacdn.com/tild3263-3036-4366-b064-363637653836/-/resize/100x/-/format/webp/rb.png",
+                "descriptionAnnotation": "На территории клуба Савёловская разместились 2 полноразмерные площадки с паркетом из канадского клёна, как на лучших аренах NBA.\nДвадцать шесть тренировочных колец.\nЭлектронные табло со статистикой и счетчиками 24 секунд.\nВы можете арендовать половину или целую площадку для проведения собственных тренировок, матчей и соревнований, тренировочных сборов или праздников.",
+                "images": ["https://optim.tildacdn.com/tild6531-6466-4166-a230-323830343866/-/format/webp/1.jpg","https://optim.tildacdn.com/tild6232-3630-4731-a664-393333333033/-/format/webp/1-1.jpg","https://optim.tildacdn.com/tild6137-3666-4639-b437-656638373461/-/format/webp/5_1.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.592435,56.834200]
+            },
+            "properties": {
+                "name": "Магазин",
+                "subtitle": "Point.",
+                "id": "4",
+                "url": "https://sun9-80.userapi.com/impg/ryAGrZz6MlfwZOvP87t_mDWk6yODBB9V2Ime6g/7LmANoXv7oI.jpg?size=2560x2560&quality=95&sign=9aef4d66dc6a8d895d028ecbf15c3823&type=album",
+                "descriptionAnnotation": "Магазин Point. – это эволюция сникер-индустрии в Уральском регионе, нашей необъятной страны.\nЕкатеринбург , ул. Хохрякова, 21\n+7(343)376-40-12\ninfo@pointsneakers.ru",
+                "images": ["https://pointsneakers.ru/wp-content/uploads/2020/03/about3.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space1.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space2.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
@@ -358,66 +418,6 @@
                 "subtitle": "с.Кулига, ул.Серпантиновая",
                 "id": "1",
                 "images": ["https://i.ibb.co/3Ct3RjP/2024-08-11-06-10-14.png","https://i.ibb.co/k4WDXn1/2024-08-11-06-11-06.png"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [65.547183,57.148302]
-            },
-            "properties": {
-                "name": "Сервис по уходу за обувью",
-                "subtitle": "Bakster",
-                "id": "3",
-                "url": "https://sun9-36.userapi.com/impg/O8MhP3BAsd8INjZh3o1_FmitlKc3ClHJc66HPA/IWRyuMjI7s0.jpg?size=2560x1846&quality=95&sign=d6aceb27ddbdc91457cb0fab2bd7f5c8&type=album",
-                "descriptionAnnotation": "Чистка, покраска и ремонт обуви в Тюмени\n\nпн-пт с 11:00 до 20:00\nсб,вс с 12:00 до 19:00\n\nул.Профсоюзная 92/5",
-                "images": ["https://sun9-21.userapi.com/s/v1/ig2/g4ZsYl4nqrQTOBQs09yo52dlA3cgc_5hDKQvJ9DvcJHQYbkwSYSkpxNS4a0iSWcKncoZamzHMEPjX57S1UFtjdez.jpg?quality=95&as=32x27,48x40,72x60,108x91,160x134,240x201,360x302,480x402,540x453,640x537,720x604,1080x906,1170x981&from=bu&u=y2FgFTjs7n9680g6TqaeevansyqevTMbmJMavK1OSZI&cs=807x677"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [37.594554,55.800463]
-            },
-            "properties": {
-                "name": "Аренда площадок",
-                "subtitle": "Playground",
-                "id": "4",
-                "url": "https://optim.tildacdn.com/tild6233-6362-4463-b733-633839646164/-/resize/100x/-/format/webp/sv.png",
-                "descriptionAnnotation": "На территории клуба Савёловская разместились 2 полноразмерные площадки с паркетом из канадского клёна, как на лучших аренах NBA.\nДвадцать шесть тренировочных колец.\nЭлектронные табло со статистикой и счетчиками 24 секунд.\nВы можете арендовать половину или целую площадку для проведения собственных тренировок, матчей и соревнований, тренировочных сборов или праздников.",
-                "images": ["https://optim.tildacdn.com/tild6666-6638-4261-a431-383630346232/-/format/webp/-20.jpg","https://optim.tildacdn.com/tild6131-6564-4233-a534-623331306635/-/format/webp/-12.jpg","https://optim.tildacdn.com/tild3064-3039-4061-b366-373338396261/-/format/webp/-6.jpg"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [37.355651,55.787938]
-            },
-            "properties": {
-                "name": "Аренда площадок",
-                "subtitle": "Playground",
-                "id": "4",
-                "url": "https://optim.tildacdn.com/tild3263-3036-4366-b064-363637653836/-/resize/100x/-/format/webp/rb.png",
-                "descriptionAnnotation": "На территории клуба Савёловская разместились 2 полноразмерные площадки с паркетом из канадского клёна, как на лучших аренах NBA.\nДвадцать шесть тренировочных колец.\nЭлектронные табло со статистикой и счетчиками 24 секунд.\nВы можете арендовать половину или целую площадку для проведения собственных тренировок, матчей и соревнований, тренировочных сборов или праздников.",
-                "images": ["https://optim.tildacdn.com/tild6531-6466-4166-a230-323830343866/-/format/webp/1.jpg","https://optim.tildacdn.com/tild6232-3630-4731-a664-393333333033/-/format/webp/1-1.jpg","https://optim.tildacdn.com/tild6137-3666-4639-b437-656638373461/-/format/webp/5_1.jpg"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [60.592435,56.834200]
-            },
-            "properties": {
-                "name": "Магазин",
-                "subtitle": "Point.",
-                "id": "4",
-                "url": "https://sun9-80.userapi.com/impg/ryAGrZz6MlfwZOvP87t_mDWk6yODBB9V2Ime6g/7LmANoXv7oI.jpg?size=2560x2560&quality=95&sign=9aef4d66dc6a8d895d028ecbf15c3823&type=album",
-                "descriptionAnnotation": "Магазин Point. – это эволюция сникер-индустрии в Уральском регионе, нашей необъятной страны.\nЕкатеринбург , ул. Хохрякова, 21\n+7(343)376-40-12\ninfo@pointsneakers.ru",
-                "images": ["https://pointsneakers.ru/wp-content/uploads/2020/03/about3.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space1.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space2.png"]
             }
         },
         {
