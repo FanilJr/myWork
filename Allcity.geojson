@@ -2905,6 +2905,19 @@
                 "id": "1",
                 "images": ["https://i.ibb.co/nRR3CJr/2024-08-22-12-20-32.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.405757,55.174606]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Кирова",
+                "id": "1",
+                "images": ["https://imageup.ru/img261/4900067/snimok-ekrana-2024-08-29-v-174509.jpg"]
+            }
         }
     ]
 }
