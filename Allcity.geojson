@@ -2916,7 +2916,85 @@
                 "name": "Площадка",
                 "subtitle": "​​​​​ул.Кирова",
                 "id": "1",
-                "images": ["https://imageup.ru/img261/4900067/snimok-ekrana-2024-08-29-v-174509.jpg"]
+                "images": ["https://pic.maxiol.com/images2/1724936698.94699576.20240829174509.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.362385,55.161524]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Центральный парк им. Ю.А.Гагарина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724936980.94699576.20240829180920.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.298239,55.180936]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Лицей №97",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724937171.94699576.20240829181050.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.339545,55.112703]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Кузнецова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724937329.94699576.20240829181432.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.41046,55.142929]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Степана Разина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724937396.94699576.20240829181600.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.442156,55.128144]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Дзержинского",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724937486.94699576.20240829181705.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.427713,55.11304]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Сквер Смолинский",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1724937567.94699576.20240829181840.png"]
             }
         }
     ]
