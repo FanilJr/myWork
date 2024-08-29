@@ -379,7 +379,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [55.800463,37.594554]
+                "coordinates": [37.594554,55.800463]
             },
             "properties": {
                 "name": "Аренда площадок",
