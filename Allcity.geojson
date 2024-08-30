@@ -2996,6 +2996,162 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1724937567.94699576.20240829181840.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.456927,55.121653]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​шк.№55",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007350.94699576.20240830134216.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.290469,55.164743]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Академика Королева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007559.94699576.20240830134505.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.31592,55.158237]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Пустового",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007731.94699576.20240830134811.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.283975,55.172304]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Татищева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007848.94699576.20240830135001.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.521959,55.17505]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Чурилово",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007920.94699576.20240830135117.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.524498,55.169835]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Заозёрный",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725007989.94699576.20240830135226.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.282687,55.184631]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Комсомольский проспект",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008070.94699576.20240830135350.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.277734,55.186783]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Лицей №35",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008164.94699576.20240830135523.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.284616,55.19542]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Аношкина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008257.94699576.20240830135641.png","https://pic.maxiol.com/images2/1725008277.94699576.20240830135651.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.294245,55.208387]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Краснопольский проспект",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008345.94699576.20240830135827.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.38635,55.260046]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ПКиО им.Тищенко",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008475.94699576.20240830140001.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [61.391017,55.164132]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Сквер Алое Поле",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725008576.94699576.20240830140212.png"]
+            }
         }
     ]
 }
