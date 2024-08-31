@@ -50,21 +50,6 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [60.592435,56.834200]
-            },
-            "properties": {
-                "name": "Магазин",
-                "subtitle": "Point.",
-                "id": "4",
-                "url": "https://sun9-80.userapi.com/impg/ryAGrZz6MlfwZOvP87t_mDWk6yODBB9V2Ime6g/7LmANoXv7oI.jpg?size=2560x2560&quality=95&sign=9aef4d66dc6a8d895d028ecbf15c3823&type=album",
-                "descriptionAnnotation": "Магазин Point. – это эволюция сникер-индустрии в Уральском регионе, нашей необъятной страны.\nЕкатеринбург , ул. Хохрякова, 21\n+7(343)376-40-12\ninfo@pointsneakers.ru",
-                "images": ["https://pointsneakers.ru/wp-content/uploads/2020/03/about3.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space1.png","https://pointsneakers.ru/wp-content/uploads/2020/03/space2.png"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
