@@ -76,6 +76,19 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [60.595089,56.815221]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Фурманова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725271593.94699576.20240902150444.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.504104,56.824933]
             },
             "properties": {
