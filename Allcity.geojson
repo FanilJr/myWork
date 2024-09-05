@@ -97,6 +97,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1724939749.94699576.20240816045733.png"]
             }
+        },,
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.579169,56.969920]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Верхняя Пышма",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725536422.94699576.20240905163950.png"]
+            }
         },
         {
             "type": "Feature",
