@@ -1645,6 +1645,19 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [37.922495,55.662640]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​1-й панковский проезд, к3",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725546579.1435242485.dkta3s2.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [37.609233,55.691052]
             },
             "properties": {
