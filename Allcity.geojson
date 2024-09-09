@@ -1487,6 +1487,19 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [37.320322,55.835214]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Реал Парк",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1725859597.1509598929.d8ydshv.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [37.575088,55.794362]
             },
             "properties": {
