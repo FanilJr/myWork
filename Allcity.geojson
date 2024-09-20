@@ -102,6 +102,32 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [60.545573,56.767392]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Амундсена",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726818075.94700647.img6224.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.497794,56.787821]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Акамедика Парина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726818233.94700647.img6225.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.579169,56.969920]
             },
             "properties": {
