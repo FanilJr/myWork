@@ -3300,7 +3300,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [57.997642,56.219964]
+                "coordinates": [56.219964,57.997642]
             },
             "properties": {
                 "name": "Площадка",
@@ -3347,6 +3347,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726820922.94700647.2024092012702pm.png","https://pic.maxiol.com/images2/1726820946.94700647.2024092012653pm.png"]
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.270326,57.987603]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Чкалова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726824924.760731500.2024092023411pm.png","https://pic.maxiol.com/images2/1726824946.760731500.2024092023420pm.png"]
+            }
+        },
     ]
 }
