@@ -169,6 +169,45 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [60.558779,56.852461]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Уралмаш Kids",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726816553.94700647.img6216.jpg","https://pic.maxiol.com/images2/1726816577.94700647.img6217.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.578001,56.854575]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Готвальда",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726816727.94700647.img6218.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.615082,56.859909]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Трамвайный переулок",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726816921.94700647.img6219.jpg","https://pic.maxiol.com/images2/1726816941.94700647.img6220.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.584361,56.833642]
             },
             "properties": {
