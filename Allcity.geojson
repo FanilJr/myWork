@@ -169,6 +169,32 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [60.692653,56.845406]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Шарташ",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726817268.94700647.img6221.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.692492,56.83206]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.40-летия Комсомола",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726817549.94700647.img6222.jpg]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.558779,56.852461]
             },
             "properties": {
