@@ -332,8 +332,6 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "ул.Лучистая",
-                "city": "Екатеринбург",
-                "top": true,
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1724945498.94699576.20240811051751.png"]
             }
