@@ -161,8 +161,6 @@
             "properties": {
                 "name": "Площадка",
                 "subtitle": "ул.Дорожная",
-                "city": "Екатеринбург",
-                "top": true,
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726817889.94700647.img6223.jpg"]
             }
