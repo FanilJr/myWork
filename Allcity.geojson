@@ -3398,6 +3398,7 @@
                 "name": "Площадка",
                 "subtitle": "​​​​​Центральная набережная",
                 "id": "1",
+                "city": "Пермь",
                 "images": ["https://pic.maxiol.com/images2/1726825772.760731500.2024092024913pm.png","https://pic.maxiol.com/images2/1726825796.760731500.2024092024904pm.png"]
             }
         },
@@ -3425,6 +3426,71 @@
                 "subtitle": "​​​​​ул.Архитектора Свиязева",
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726826045.760731500.2024092025307pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.320406,58.006069]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Грибоедовский",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826314.760731500.2024092025738pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.312459,58.008605]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Старцева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826395.760731500.2024092025910pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.338121,58.002755]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Агатовая",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826486.760731500.2024092030041pm.png","https://pic.maxiol.com/images2/1726826513.760731500.2024092030051pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.203736,57.97398]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Подводников",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826600.760731500.2024092030221pm.png","https://pic.maxiol.com/images2/1726826623.760731500.2024092030235pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.265126,58.021519]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Красная горка",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826710.760731500.2024092030428pm.png"]
             }
         }
     ]
