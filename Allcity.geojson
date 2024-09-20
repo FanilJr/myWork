@@ -3360,6 +3360,72 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726824924.760731500.2024092023411pm.png","https://pic.maxiol.com/images2/1726824946.760731500.2024092023420pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.175406,57.964414]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Геологов",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726825238.760731500.2024092023918pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.220488,58.01576]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Центральная набережная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726825553.760731500.d68dc1b6b9f16e34e60.jpg"],
+                "top": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.220488,58.01576]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Центральная набережная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726825772.760731500.2024092024913pm.png","https://pic.maxiol.com/images2/1726825796.760731500.2024092024904pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.290781,57.98592]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Запорожская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726825923.760731500.2024092025108pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.181277,57.962955]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Архитектора Свиязева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726826045.760731500.2024092025307pm.png"]
+            }
         }
     ]
 }
