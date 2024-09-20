@@ -130,6 +130,21 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [60.588336,56.774096]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Дорожная",
+                "city": "Екатеринбург",
+                "top": true,
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726817889.94700647.img6223.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.627551,56.835434]
             },
             "properties": {
