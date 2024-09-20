@@ -3295,6 +3295,45 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726819672.94700647.2024092010611pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [57.997642,56.219964]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Полевая",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726820263.94700647.2024092011633pm.png","https://pic.maxiol.com/images2/1726820294.94700647.2024092011645pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.202849,57.981268]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Сад им.Миндовского",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726819963.94700647.2024092010850pm.png","https://pic.maxiol.com/images2/1726819994.94700647.2024092010912pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.17789,57.993016]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк Балатово",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726820404.94700647.2024092011912pm.png"]
+            }
         }
     ]
 }
