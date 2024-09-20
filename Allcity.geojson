@@ -3282,6 +3282,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1725008576.94699576.20240830140212.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.200782,57.999251]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Кронштадтская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726819672.94700647.2024092010611pm.png"]
+            }
         }
     ]
 }
