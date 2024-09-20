@@ -3492,6 +3492,88 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726826710.760731500.2024092030428pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.165156,57.998809]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​пр.Парковый",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726827211.760731500.2024092031201pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.261657,57.994081]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Вильгельма де Геннина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726827394.760731500.2024092031520pm.png","https://pic.maxiol.com/images2/1726827417.760731500.2024092031534pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.24398,58.001529]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​сквер им.Георгия Буркова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726827590.760731500.2024092031839pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.351006,58.057536]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Целинная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726827774.760731500.2024092032215pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.249817,58.003924]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Парк им.Горького",
+                "id": "1",
+                "top": true,
+                "city": "Пермь",
+                "images": ["https://pic.maxiol.com/images2/1726828371.760731500.2024092032626pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.301658,58.00375]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ж/м Садовый",
+                "id": "1",
+                "top": true,
+                "city": "Пермь",
+                "images": ["https://pic.maxiol.com/images2/1726828824.760731500.2024092033946pm.png","https://pic.maxiol.com/images2/1726828887.760731500.2024092034113pm.png"]
+            }
         }
     ]
 }
