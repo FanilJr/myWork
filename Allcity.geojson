@@ -3609,6 +3609,45 @@
                 "city": "Пермь",
                 "images": ["https://pic.maxiol.com/images2/1726828824.760731500.2024092033946pm.png","https://pic.maxiol.com/images2/1726828887.760731500.2024092034113pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.636169,47.210224]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Зорге",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726904238.94700647.img6233.jpg","https://pic.maxiol.com/images2/1726904258.94700647.img6234.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.732371,47.203863]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Пойменная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726904443.94700647.img6235.jpg","https://pic.maxiol.com/images2/1726904461.94700647.img6236.jpg","https://pic.maxiol.com/images2/1726904480.94700647.img6237.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.705499,47.252396]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​Ашхабадский переулок",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726904734.94700647.img6238.jpg","https://pic.maxiol.com/images2/1726904749.94700647.img6239.jpg"]
+            }
         }
     ]
 }
