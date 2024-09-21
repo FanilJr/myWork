@@ -630,6 +630,45 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [65.603643,57.204151]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Мелиораторов",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726903185.94700647.img6227.jpg","https://pic.maxiol.com/images2/1726903208.94700647.img6228.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.481739,57.163558]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Бакинских Комиссаров",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726903460.94700647.img6229.jpg","https://pic.maxiol.com/images2/1726903409.94700647.img6230.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [65.659144,57.160362]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Судостроителей",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1726903877.94700647.img6231.jpg","https://pic.maxiol.com/images2/1726903892.94700647.img6232.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [50.080932,53.188924]
             },
             "properties": {
