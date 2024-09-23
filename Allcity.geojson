@@ -3646,6 +3646,21 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726904734.94700647.img6238.jpg","https://pic.maxiol.com/images2/1726904749.94700647.img6239.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.146006,55.805062]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Подлужная",
+                "id": "1",
+                "top": true,
+                "city": "Казань",
+                "images": ["https://pic.maxiol.com/images2/1727102084.94700647.fyxzhdgfycy5tzhmuewf.jpg","https://pic.maxiol.com/images2/1727102106.94700647.58852b662f63401292bf.jpg","https://pic.maxiol.com/images2/1727102122.94700647.4843n1850648big.jpg"]
+            }
         }
     ]
 }
