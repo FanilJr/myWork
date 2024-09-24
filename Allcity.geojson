@@ -3661,6 +3661,84 @@
                 "city": "Казань",
                 "images": ["https://pic.maxiol.com/images2/1727102084.94700647.fyxzhdgfycy5tzhmuewf.jpg","https://pic.maxiol.com/images2/1727102106.94700647.58852b662f63401292bf.jpg","https://pic.maxiol.com/images2/1727102122.94700647.4843n1850648big.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.12593,55.782264]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Спартаковская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727150957.94700647.img6272.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.133148,55.774129]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Марселя Салимжанова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727151134.94700647.img6273.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.150307,55.767063]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Павлюхина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727151268.94700647.img6274.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.157525,55.765587]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​проспект Универсиады",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727151403.94700647.img6275.jpg","https://pic.maxiol.com/images2/1727151425.94700647.img6276.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.141148,55.744581]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​сквер Авангард",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727151646.94700647.img6277.jpg","https://pic.maxiol.com/images2/1727151661.94700647.img6278.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.227217,55.785288]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​шк №171",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727151854.94700647.img6279.jpg"]
+            }
         }
     ]
 }
