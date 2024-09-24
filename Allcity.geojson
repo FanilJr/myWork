@@ -3739,6 +3739,71 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727151854.94700647.img6279.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.24928,55.796763]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЖК Весна",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727152055.94700647.img6280.jpg","https://pic.maxiol.com/images2/1727152077.94700647.img6281.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.150886,55.796706]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ЦПКиО",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727152270.94700647.img6282.jpg","https://pic.maxiol.com/images2/1727152284.94700647.img6283.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.140042,55.820957]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​ул.Чистопольская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727152426.94700647.img6284.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.091112,55.825311]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Парк Сосновая Роща",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727152548.94700647.img6285.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.068561,55.840278]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Коломенская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727152774.94700647.img6286.jpg","https://pic.maxiol.com/images2/1727152795.94700647.img6287.jpg"]
+            }
         }
     ]
 }
