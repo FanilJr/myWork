@@ -3804,6 +3804,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727152774.94700647.img6286.jpg","https://pic.maxiol.com/images2/1727152795.94700647.img6287.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.059441,55.837863]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​парк им.Урицкого",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727153003.94700647.img6288.jpg","https://pic.maxiol.com/images2/1727153024.94700647.img62892.jpg"]
+            }
         }
     ]
 }
