@@ -3921,6 +3921,97 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727156997.94700647.20240924104917am.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.349326,54.939176]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.12 Декабря",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727157281.94700647.20240924105307am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.418299,54.944729]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Свободы",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727157418.94700647.img6291.jpg","https://pic.maxiol.com/images2/1727157438.94700647.img6292.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.394856,54.968253]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Декабристов",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727157576.94700647.img6293.jpg","https://pic.maxiol.com/images2/1727157590.94700647.img6294.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.364155,54.985696]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Партизанская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727157759.94700647.img6295.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.391634,55.022409]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.24 Северная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727157882.94700647.img6296.jpg","https://pic.maxiol.com/images2/1727157901.94700647.img6297.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.340704,55.002168]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Красный путь",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727158022.94700647.img6298.jpg","https://pic.maxiol.com/images2/1727158036.94700647.img6299.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.285888,55.00168]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Лукашевича",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727158173.94700647.img6300.jpg"]
+            }
         }
     ]
 }
