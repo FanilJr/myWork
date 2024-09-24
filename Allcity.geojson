@@ -3830,6 +3830,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727156190.94700647.20240924103440am.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.4549,54.952919]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Шинная 6-я",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156331.94700647.20240924103757am.png"]
+            }
         }
     ]
 }
