@@ -4012,6 +4012,97 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727158173.94700647.img6300.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.827952,54.705261]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Ухтомского",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727159335.94700647.img6301.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.854278,54.696413]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Экогородок Яркий",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727159461.94700647.img6302.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.985784,54.694357]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Загира Исмагилова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727159634.94700647.img6303.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.013231,54.719541]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Менделеева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727159888.94700647.img6304.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.931591,54.724441]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Пушкина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727159980.94700647.img6305.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.964478,54.727153]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​шк №126",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727160103.94700647.img6306.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.010506,54.769168]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Рихарда Зорге",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727160356.94700647.img6308.jpg"]
+            }
         }
     ]
 }
