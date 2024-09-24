@@ -3843,6 +3843,84 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727156331.94700647.20240924103757am.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.307733,54.996133]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​бульвар Кузьмина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156430.94700647.20240924103954am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.476164,54.978244]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.50 лет ВЛКСМ",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156533.94700647.20240924104126am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.292843,55.029061]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Поселковая 2-я",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156647.94700647.20240924104330am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.313639,55.048113]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Заозёрная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156774.94700647.20240924104526am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.269462,55.029687]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Проспект Мира",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156849.94700647.20240924104652am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.025841,54.950833]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​с.Лузино",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156997.94700647.20240924104917am.png"]
+            }
         }
     ]
 }
