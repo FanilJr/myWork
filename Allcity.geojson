@@ -3817,6 +3817,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727153003.94700647.img6288.jpg","https://pic.maxiol.com/images2/1727153024.94700647.img62892.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.433177,54.950626]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Транспортная 4-я",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727156190.94700647.20240924103440am.png]
+            }
         }
     ]
 }
