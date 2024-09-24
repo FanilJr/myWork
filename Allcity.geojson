@@ -4103,6 +4103,99 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727160356.94700647.img6308.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.132538,53.2058]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Сквер Фадеева",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727160736.94700647.img6309.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.137321,53.210007]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Ново-Садовая",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727160834.94700647.img6310.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.131362,53.211392]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Осипенко",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727161011.94700647.img6311.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.177574,53.192285]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Революционная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727161174.94700647.img6312.jpg","https://pic.maxiol.com/images2/1727161193.94700647.img6313.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.222734,53.244263]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Стара Загора",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727161361.94700647.img6314.jpg","https://pic.maxiol.com/images2/1727161380.94700647.img6315.jpg","https://pic.maxiol.com/images2/1727161400.94700647.img6316.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.253569,53.249313]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Стара Загора",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727161584.94700647.img6317.jpg","https://pic.maxiol.com/images2/1727161602.94700647.img6318.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.253569,53.249313]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Демократическая",
+                "id": "1",
+                "city": "Самара",
+                "top": true,
+                "images": ["https://pic.maxiol.com/images2/1727161777.94700647.img6320.jpg","https://pic.maxiol.com/images2/1727161796.94700647.img6319.jpg","https://pic.maxiol.com/images2/1727161819.94700647.img6321.jpg"]
+            }
         }
     ]
 }
