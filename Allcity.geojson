@@ -4194,6 +4194,448 @@
                 "top": true,
                 "images": ["https://pic.maxiol.com/images2/1727161777.94700647.img6320.jpg","https://pic.maxiol.com/images2/1727161796.94700647.img6319.jpg","https://pic.maxiol.com/images2/1727161819.94700647.img6321.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.665325,53.349299]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.65 лет Победы",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233275.94700647.2024092580103am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.758731,53.34761]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Привокзальная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233386.94700647.2024092580221am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.709918,53.371795]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ЖК Титан",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233482.94700647.2024092580337am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.693511,53.358594]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Антона Петрова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233579.94700647.2024092580526am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.706134,53.370533]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Гущина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233809.94700647.2024092580931am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.768281,53.336764]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Папанинцев",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727233928.94700647.2024092581108am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.674788,53.337514]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Взлётная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234022.94700647.2024092581309am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.68158,53.325502]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Лазурная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234081.94700647.2024092581408am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.676879,53.325713]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Шумакова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234138.94700647.2024092581510am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.681317,53.327082]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Лазурная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234195.94700647.2024092581608am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.678559,53.327026]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Власихинская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234271.94700647.2024092581708am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.755084,53.2887]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Змеиногорский тракт",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234414.94700647.2024092581935am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.768153,53.339422]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Папанинцев",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234518.94700647.2024092582107am.png","https://pic.maxiol.com/images2/1727234536.94700647.2024092582116am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.670139,53.348124]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Попова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234608.94700647.2024092582257am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.66575,53.348558]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.65 лет Победы",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234714.94700647.2024092582440am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.67089,53.34955]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Попова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234816.94700647.2024092582620am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.672646,53.328269]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Власихинская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727234947.94700647.2024092582825am.png","https://pic.maxiol.com/images2/1727234969.94700647.2024092582833am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.674624,53.340949]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Взлётная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235049.94700647.2024092583019am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.687991,53.330817]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Балтийская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235116.94700647.2024092583116am.png","https://pic.maxiol.com/images2/1727235136.94700647.2024092583125am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.694353,53.356844]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Новгородская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235225.94700647.2024092583311am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.689502,53.35766]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Новгородская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235276.94700647.2024092583411am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.69152,53.335145]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Балтийская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235359.94700647.2024092583527am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.687937,53.337651]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Взлётная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235414.94700647.2024092583625am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.693815,53.371781]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Островского",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235492.94700647.2024092583721am.png","https://pic.maxiol.com/images2/1727235521.94700647.2024092583735am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.672308,53.327304]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Власихинская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235612.94700647.2024092583941am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.757358,53.291476]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Змеиногорский тракт",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727235760.94700647.2024092584058am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.667216,53.35335]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​Дружный 2",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236136.94700647.2024092584639am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.729572,53.374709]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Петра Сухова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236210.1435243496.2024092584925am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.664632,53.353917]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.65 лет Победы",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236274.1435243496.2024092585038am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.664477,53.353525]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Сергея Семёнова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236346.1435243496.2024092585137am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.66387,53.353391]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.Сергея Семёнова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236395.1435243496.2024092585249am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.661784,53.347336]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​ул.65 лет Победы",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236450.1435243496.2024092585338am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.660711,53.353871]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Сергея Семёнова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236513.1435243496.2024092585439am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.647408,53.340972]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Взлётная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727236624.1435243496.2024092585622am.png"]
+            }
         }
     ]
 }
