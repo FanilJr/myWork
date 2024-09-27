@@ -4688,6 +4688,45 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727424599.94700647.2024092710916pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.131162,51.479626]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Одесская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727424884.94700647.img6330.jpg","https://pic.maxiol.com/images2/1727424902.94700647.img6331.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.122372,51.48749]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Тельмана",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727425020.94700647.img6332.jpg","https://pic.maxiol.com/images2/1727425034.94700647.img6333.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46.108038,51.484746]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​2-я Советская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727425323.94700647.img6335.jpg"]
+            }
         }
     ]
 }
