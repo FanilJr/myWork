@@ -4727,6 +4727,45 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727425323.94700647.img6335.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.975356,51.537432]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ЖК Царицынский",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727425787.94700647.img6336.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.989234,51.564584]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул. 50 лет Октября",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727425894.94700647.img6337.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.999196,51.568519]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.им.Шехурдина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727426138.94700647.img6338.jpg"]
+            }
         }
     ]
 }
