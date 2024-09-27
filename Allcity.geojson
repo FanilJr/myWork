@@ -4636,6 +4636,58 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727236624.1435243496.2024092585622am.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.981223,51.532874]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Большая Садовая",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727424346.94700647.2024092710323pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.976763,51.613942]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.им.Тархова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727424459.94700647.2024092710653pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.912068,51.47154]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.им.Азина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727424530.94700647.2024092710814pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45.906524,51.597145]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​сквер.им.Благодарова",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727424599.94700647.2024092710916pm.png"]
+            }
         }
     ]
 }
