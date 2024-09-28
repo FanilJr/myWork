@@ -4927,13 +4927,132 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [39.119168,51.566575]
+                "coordinates": [39.10853,51.656935]
             },
             "properties": {
                 "name": "Площадка",
-                "subtitle": "ул.​​​​​​​Острогожская",
+                "subtitle": "ул.​​​​​​​Любы Шевцовой",
                 "id": "1",
-                "images": ["https://pic.maxiol.com/images2/1727503804.94700647.20240928110915am.png"]
+                "images": ["https://pic.maxiol.com/images2/1727504158.94700647.img6347.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.125374,51.652136]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.​​​​​​​Олеко Дундича",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727504252.94700647.img6348.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.144428,51.714087]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Антонова Овсеенко​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727504552.94700647.img6350.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.171824,51.720801]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Владимира Невского​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727504733.94700647.img6352.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.162121,51.731085]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Дмитрия Горина​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727504829.94700647.img6353.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.182156,51.732333]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Московский проспект​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727504926.94700647.img6354.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.190803,51.714603]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ЖК Пять столиц​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727505051.94700647.img6355.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.193683,51.715917]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ЖК Олимпийский​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727505377.94700647.20240928113525am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.200944,51.716097]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Центральный район​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727505564.94700647.img6358.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.200944,51.658824]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Арзамасская​​​",
+                "top": true,
+                "city": "Воронеж",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727505917.94700647.20240928114421am.png"]
             }
         }
     ]
