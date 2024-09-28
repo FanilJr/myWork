@@ -4766,6 +4766,136 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727426138.94700647.img6338.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.963257,56.476751]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​пр.Фрунзе",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501551.1435243496.20240928103201am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.992842,56.502164]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Пушкина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501670.1435243496.20240928103350am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.983672,56.493314]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​Михайловская роща",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501733.1435243496.20240928103459am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [85.025497,56.442906]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Виталия Грачёва",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501800.1435243496.20240928103601am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.899446,56.600028]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Калинина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501873.1435243496.20240928103718am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.870823,56.604345]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​пр.Коммунистический",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727501948.1435243496.20240928103825am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.9866,56.46151]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​​ул.Елизаровых",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727502083.94700647.img6343.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.973664,56.461399]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​ул.Киевская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727502197.94700647.img6344.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.962973,56.460144]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​ул.Вершинина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727502294.94700647.img6345.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [84.971742,56.478387]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "​​​​​​​ул.Никитина",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727502350.94700647.img6346.jpg"]
+            }
         }
     ]
 }
