@@ -424,7 +424,7 @@
                 "top": true,
                 "city": "Тюмень",
                 "id": "1",
-                "images": ["https://pic.maxiol.com/images2/1724949379.94699576.20240811054839.png","https://pic.maxiol.com/images2/1724949405.94699576.20240811054951.png","https://pic.maxiol.com/images2/1724949428.94699576.20240811055033.png"]
+                "images": ["https://pic.maxiol.com/images2/1727513807.94700647.000105.jpg","https://pic.maxiol.com/images2/1727513840.94700647.000111.jpg","https://pic.maxiol.com/images2/1727513863.94700647.000147.jpg"]
             }
         },
         {
@@ -5053,6 +5053,36 @@
                 "city": "Воронеж",
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727505917.94700647.20240928114421am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.135195,53.207004]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "пр-т Ленина​​​",
+                "top": true,
+                "city": "Самара",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727513450.94700647.2024092814727pm.png","https://pic.maxiol.com/images2/1727513477.94700647.000108.jpg","https://pic.maxiol.com/images2/1727513532.94700647.2024092815159pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.135195,53.207004]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "пр-т Ленина​​​",
+                "top": true,
+                "city": "Самара",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727513450.94700647.2024092814727pm.png","https://pic.maxiol.com/images2/1727513477.94700647.000108.jpg","https://pic.maxiol.com/images2/1727513532.94700647.2024092815159pm.png"]
             }
         }
     ]
