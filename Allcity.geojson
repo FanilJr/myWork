@@ -4896,6 +4896,45 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727502350.94700647.img6346.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.171418,51.633025]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.​​​​​​​Острогожская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727503623.94700647.20240928110532am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.361363,51.693169]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.​​​​​​​Совхозная",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727503684.94700647.20240928110725am.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.119168,51.566575]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.​​​​​​​Острогожская",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1727503804.94700647.20240928110915am.png"]
+            }
         }
     ]
 }
