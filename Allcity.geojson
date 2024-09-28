@@ -5069,21 +5069,6 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727513450.94700647.2024092814727pm.png","https://pic.maxiol.com/images2/1727513477.94700647.000108.jpg","https://pic.maxiol.com/images2/1727513532.94700647.2024092815159pm.png"]
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [50.135195,53.207004]
-            },
-            "properties": {
-                "name": "Площадка",
-                "subtitle": "пр-т Ленина​​​",
-                "top": true,
-                "city": "Самара",
-                "id": "1",
-                "images": ["https://pic.maxiol.com/images2/1727513450.94700647.2024092814727pm.png","https://pic.maxiol.com/images2/1727513477.94700647.000108.jpg","https://pic.maxiol.com/images2/1727513532.94700647.2024092815159pm.png"]
-            }
         }
     ]
 }
