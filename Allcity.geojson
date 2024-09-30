@@ -580,9 +580,11 @@
             },
             "properties": {
                 "name": "Площадка",
-                "subtitle": "возле пляжа на озере Кашкадан",
+                "subtitle": "Кашкадан",
+                "top": true,
+                "city": "Уфа",
                 "id": "1",
-                "images": ["https://pic.maxiol.com/images2/1724950321.94699576.20240829215141.png","https://pic.maxiol.com/images2/1724950375.94699576.20240811202505.png"]
+                "images": ["https://pic.maxiol.com/images2/1727695355.1435244399.20240930161631.png","https://pic.maxiol.com/images2/1727695414.1435244399.20240930160840.png","https://pic.maxiol.com/images2/1727695478.1435244399.20240930161700.png"]
             }
         },
         {
