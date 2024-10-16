@@ -1,11 +1,6 @@
 {
-  "miniTitle": "ПЕРВЫЙ КОНКУРС ОТ BASKET MAP\nПРИСОЕДИНЯЙСЯ К УЧАСТИЮ И ВЫЙГРАЙ ПРИЗ",
-  "title": "Выйграй баскетбольный мяч",
-  "logo": "logo",
-  "description": "",
-  "secondImages": [""],
-  "images": [""],
-  "link": "",
-  "nameSponsor": "Basket Map",
-  "basketMapwithSponsorLogo": "https://kvantorium54.ru/wp-content/uploads/2022/12/pqccbhcxeg8-1024x683.jpg"
+  "title": "Конкурс от Basket Map",
+  "description": "Правила просты. Пригласи 3-ёх друзей и учавствуйте в розыгрыше.",
+  "image": "https://pic.maxiol.com/images2/1729056980.94699669.20241016103604.png",
+  "date": "16.10.2024"
 }
