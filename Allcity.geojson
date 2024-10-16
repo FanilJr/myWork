@@ -5071,6 +5071,99 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1727513450.94700647.2024092814727pm.png","https://pic.maxiol.com/images2/1727513477.94700647.000108.jpg","https://pic.maxiol.com/images2/1727513532.94700647.2024092815159pm.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.42067,48.62978]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Пожарского​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052170.1435244386.20241016091508.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.807693,48.760514]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.40 Лет Победы​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052399.1435244386.20241016091913.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.476685,48.764513]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ПКиО Русь​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052510.1435244386.20241016092059.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.488972,48.691101]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Сказка​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052591.1435244386.20241016092227.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.526565,48.70959]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Советская​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052675.1435244386.20241016092358.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.852259,48.611827]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк им.Калинкина​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1729052975.1435244386.20241016092838.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [44.536633,48.717926]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Маршала Чуйкова​​​",
+                "id": "1",
+                "top": true,
+                "city": "Волгоград",
+                "images": ["https://pic.maxiol.com/images2/1729053312.1435244386.r3tznowws5krqgdqsy.jpg","https://pic.maxiol.com/images2/1729053348.1435244386.asw2jdc4pmkddcsheg.jpg","https://pic.maxiol.com/images2/1729053417.1435244386.mmbcwletilmbn3pcdu.jpg"]
+            }
         }
     ]
 }
