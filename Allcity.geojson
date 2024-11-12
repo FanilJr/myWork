@@ -5169,11 +5169,11 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [55.177154,61.4537468]
+                "coordinates": [61.4537468,55.177154]
             },
             "properties": {
                 "name": "Площадка",
-                "subtitle": "ул.Котинка​​​",
+                "subtitle": "ул.Котина​​​",
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1731407558.94703419.20241112153222.png"]
             }
