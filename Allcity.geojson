@@ -5164,6 +5164,19 @@
                 "city": "Волгоград",
                 "images": ["https://pic.maxiol.com/images2/1729053312.1435244386.r3tznowws5krqgdqsy.jpg","https://pic.maxiol.com/images2/1729053348.1435244386.asw2jdc4pmkddcsheg.jpg","https://pic.maxiol.com/images2/1729053417.1435244386.mmbcwletilmbn3pcdu.jpg"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [55.177154,61.4537468]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Котинка​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1731407558.94703419.20241112153222.png"]
+            }
         }
     ]
 }
