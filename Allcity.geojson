@@ -114,6 +114,22 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [56.301658,58.00375]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ж/м Садовый",
+                "id": "6",
+                "top": true,
+                "city": "Пермь",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1726828824.760731500.2024092033946pm.png","https://pic.maxiol.com/images2/1726828887.760731500.2024092034113pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
@@ -3640,21 +3656,6 @@
                 "top": true,
                 "city": "Пермь",
                 "images": ["https://pic.maxiol.com/images2/1726828371.760731500.2024092032626pm.png"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [56.301658,58.00375]
-            },
-            "properties": {
-                "name": "Площадка",
-                "subtitle": "​​​​​ж/м Садовый",
-                "id": "1",
-                "top": true,
-                "city": "Пермь",
-                "images": ["https://pic.maxiol.com/images2/1726828824.760731500.2024092033946pm.png","https://pic.maxiol.com/images2/1726828887.760731500.2024092034113pm.png"]
             }
         },
         {
