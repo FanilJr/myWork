@@ -130,6 +130,38 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [40.410768,56.142206]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ул.Мира 36",
+                "id": "6",
+                "top": true,
+                "city": "Владимир",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1731925465.1435242302.000106.png","https://pic.maxiol.com/images2/1731925489.1435242302.000104j.jpg","https://pic.maxiol.com/images2/1731925510.1435242302.000102j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.355067,54.990445]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ул.Тухачевского 12",
+                "id": "6",
+                "top": true,
+                "city": "Омск",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1731925731.1435242302.000105.png","https://pic.maxiol.com/images2/1731925750.1435242302.000106j.jpg","https://pic.maxiol.com/images2/1731925767.1435242302.rrx0004e.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
