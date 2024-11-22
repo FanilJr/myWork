@@ -210,6 +210,38 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [55.096912,51.807925]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ул.Пролетарская",
+                "id": "6",
+                "top": true,
+                "city": "Оренбург",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732259526.1435268263.000101.jpg","https://pic.maxiol.com/images2/1732259545.1435268263.000112.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.632433,43.481463]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ул.2-й Таманской дивизии",
+                "id": "6",
+                "top": true,
+                "city": "Нальчик",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732259755.1435268263.000111.jpg","https://pic.maxiol.com/images2/1732259773.1435268263.000102.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
