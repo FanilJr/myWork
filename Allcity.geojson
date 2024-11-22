@@ -178,6 +178,38 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [37.324262,44.873959]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​парк Крещенский",
+                "id": "6",
+                "top": true,
+                "city": "Анапа",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732258513.1435268263.000188.jpg","https://pic.maxiol.com/images2/1732258531.1435268263.000179j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [86.169567,55.3405]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​бульвар Строителей",
+                "id": "6",
+                "top": true,
+                "city": "Кемерово",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732259219.1435268263.000103j.jpg","https://pic.maxiol.com/images2/1732259238.1435268263.000100j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
