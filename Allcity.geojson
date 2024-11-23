@@ -370,6 +370,22 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [127.513086,50.257012]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "парк Уультуры и Отдыха ",
+                "id": "6",
+                "top": true,
+                "city": "Благовещенск (Амурская обл.)",
+                "url": "https://pic.maxiol.com/images2/1732339192.94774323..png",
+                "images": ["https://pic.maxiol.com/images2/1732339453.94774323.20241123102359.png","https://pic.maxiol.com/images2/1732339481.94774323.20241123102328.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
