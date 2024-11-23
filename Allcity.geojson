@@ -242,6 +242,22 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [53.192326,56.858662]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​ул.Кирова 17",
+                "id": "6",
+                "top": true,
+                "city": "Ижевск",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732335187.1435244231.0001002j.jpg","https://pic.maxiol.com/images2/1732335218.1435244231.000130j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
