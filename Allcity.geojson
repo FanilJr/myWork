@@ -386,6 +386,70 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [76.57055,60.927922]
+            },
+            "properties": {
+                "name": "СИБУР",
+                "subtitle": "возле Центрального Стадиона ",
+                "id": "6",
+                "top": true,
+                "city": "Нижневартовск",
+                "url": "https://pic.maxiol.com/images2/1732339192.94774323..png",
+                "images": ["https://pic.maxiol.com/images2/1732340155.94774323.adh9ei1bi0.jpg","https://pic.maxiol.com/images2/1732340170.94774323.e1qrrrm94cw7f5vx30hj.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [76.57055,60.927922]
+            },
+            "properties": {
+                "name": "СИБУР",
+                "subtitle": "возле Центрального Стадиона ",
+                "id": "6",
+                "top": true,
+                "city": "Нижневартовск",
+                "url": "https://pic.maxiol.com/images2/1732339192.94774323..png",
+                "images": ["https://pic.maxiol.com/images2/1732340155.94774323.adh9ei1bi0.jpg","https://pic.maxiol.com/images2/1732340170.94774323.e1qrrrm94cw7f5vx30hj.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [56.249817,58.003924]
+            },
+            "properties": {
+                "subtitle": "​​​​​Парк им.Горького",
+                "id": "6",
+                "top": true,
+                "city": "Пермь",
+                "name": "СИБУР",
+                "url": "https://pic.maxiol.com/images2/1732339192.94774323..png",
+                "images": ["https://pic.maxiol.com/images2/1726828371.760731500.2024092032626pm.png"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [68.283056,58.233366]
+            },
+            "properties": {
+                "subtitle": "​​​​​территория шк№18",
+                "id": "6",
+                "top": true,
+                "city": "Тобольск",
+                "name": "СИБУР",
+                "url": "https://pic.maxiol.com/images2/1732339192.94774323..png",
+                "images": ["https://pic.maxiol.com/images2/1732340701.94774323.fc2rlbgfub3vuyxmucnu.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
@@ -3897,21 +3961,6 @@
                 "subtitle": "​​​​​ул.Целинная",
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1726827774.760731500.2024092032215pm.png"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [56.249817,58.003924]
-            },
-            "properties": {
-                "name": "Площадка",
-                "subtitle": "​​​​​Парк им.Горького",
-                "id": "1",
-                "top": true,
-                "city": "Пермь",
-                "images": ["https://pic.maxiol.com/images2/1726828371.760731500.2024092032626pm.png"]
             }
         },
         {
