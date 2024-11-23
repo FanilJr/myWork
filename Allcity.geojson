@@ -402,22 +402,6 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [76.57055,60.927922]
-            },
-            "properties": {
-                "name": "СИБУР",
-                "subtitle": "возле Центрального Стадиона ",
-                "id": "6",
-                "top": true,
-                "city": "Нижневартовск",
-                "url": "https://pic.maxiol.com/images2/1732342538.94774323.27488168448001975200.jpg",
-                "images": ["https://pic.maxiol.com/images2/1732340155.94774323.adh9ei1bi0.jpg","https://pic.maxiol.com/images2/1732340170.94774323.e1qrrrm94cw7f5vx30hj.jpg"]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
                 "coordinates": [56.249817,58.003924]
             },
             "properties": {
