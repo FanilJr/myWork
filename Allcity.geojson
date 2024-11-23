@@ -258,6 +258,118 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [87.140131,53.76111]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "​​​​​площадь Торжеств",
+                "id": "6",
+                "top": true,
+                "city": "Новокузнецк",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732335463.94774323.000115j.jpg","https://pic.maxiol.com/images2/1732335490.94774323.000113j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [40.517689,64.532883]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "наб. Северной Двины, 73",
+                "id": "6",
+                "top": true,
+                "city": "Архангельск",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732335655.94774323.000105j.jpg","https://pic.maxiol.com/images2/1732335681.94774323.000124.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.933814,45.025788]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "ул.Доваторцев",
+                "id": "6",
+                "top": true,
+                "city": "Ставрополь",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732335858.94774323.0001022.jpg","https://pic.maxiol.com/images2/1732335879.94774323.000116.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47.233875,56.14075]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "Чебоксарский залив",
+                "id": "6",
+                "top": true,
+                "city": "Чебоксары",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732336213.94774323.0001152j.jpg","https://pic.maxiol.com/images2/1732336236.94774323.000107j.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.53817,54.697517]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "Стадион «Калининград» (вход 4)",
+                "id": "6",
+                "top": true,
+                "city": "Калининград",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732336484.94774323.000105.jpg","https://pic.maxiol.com/images2/1732336500.94774323.000115.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [38.313586,54.016965]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "аллея Предпринимателей",
+                "id": "6",
+                "top": true,
+                "city": "Новомосковск",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732336847.94774323.dsc01747.jpg","https://pic.maxiol.com/images2/1732336871.94774323.dsc01691.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [37.606486,54.192165]
+            },
+            "properties": {
+                "name": "РФБ",
+                "subtitle": "ул.Демонстрации",
+                "id": "6",
+                "top": true,
+                "city": "Тула",
+                "url": "https://pic.maxiol.com/images2/1731910773.94700442.20241118111832.png",
+                "images": ["https://pic.maxiol.com/images2/1732336993.94774323.dji0004.jpg","https://pic.maxiol.com/images2/1732337009.94774323.kor7143.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [60.553321,56.83953]
             },
             "properties": {
