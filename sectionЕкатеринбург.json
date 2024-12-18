@@ -106,5 +106,14 @@
       "пр.Успенский, 49, Верхняя Пышма"
     ],
     "phone": "+7(343)684-98-71"
+  },
+  {
+    "title": "Broccoli Soup",
+    "logo": "https://broccolisoup.ru/wp-content/uploads/2022/07/Logo_white_fin-3.png",
+    "text": "Любительский баскетбольный клуб",
+    "address": [
+      "ул.Ленина, 64А"
+    ],
+    "phone": "+7(982)615-21-81"
   }
 ]
