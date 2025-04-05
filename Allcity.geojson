@@ -5491,7 +5491,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [59.09261435720549,37.9203482031186]
+                "coordinates": [37.9203482031186,59.09261435720549]
             },
             "properties": {
                 "name": "Площадка",
