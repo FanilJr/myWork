@@ -5486,6 +5486,19 @@
                 "id": "1",
                 "images": ["https://pic.maxiol.com/images2/1731407558.94703419.20241112153222.png"]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59.09261435720549,37.9203482031186]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "Парк Серпантин​​​",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1743839296.94773403.ppah3mgfauo.jpg","https://pic.maxiol.com/images2/1743839334.94773403.jmcicinabcq.jpg"]
+            }
         }
     ]
 }
