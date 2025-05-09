@@ -4226,6 +4226,19 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [73.355092,55.018686]
+            },
+            "properties": {
+                "name": "Площадка",
+                "subtitle": "ул.Долгирева 91, Амурский ",
+                "id": "1",
+                "images": ["https://pic.maxiol.com/images2/1746770466.94699522.3k2yjcx.jpg"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [73.313639,55.048113]
             },
             "properties": {
